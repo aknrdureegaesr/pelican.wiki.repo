@@ -4,13 +4,13 @@ Add your site to the bottom of this list. Please highlight the features in your 
 
 - Site: http://bunnyman.info
 - Source:  https://github.com/tbunnyman/BunnyMan.info
+- Theme: Chunk
 - Features:
     * Hidden pages for 404, 50x
     * Custom Makefile
     * Extensive multimarkdown
     * Disquis comments
     * Mint stats tracking
-    * Chunk theme
 
 ***
 
@@ -18,6 +18,7 @@ Add your site to the bottom of this list. Please highlight the features in your 
 
 - Site: http://www.vegasfur.com
 - Source:  https://github.com/tbunnyman/Vegas-Furry-Arts
+- Theme: notmyidea (Default)
 - Features:
     * Hidden pages for 404
     * Pelican 3.0 development/production makefile
