@@ -1,0 +1,12 @@
+This site collects Tips and Tricks about pelican.
+
+Arbitrary Page Ordering
+-----------------------
+As long as #420 isn't resolved, you can get your pages (or articles, or whatever) in an arbitrary order of your choice with two little tricks:
+ * In the for loop rendering out your menu, add a sort filter to sort by filename:
+   ..
+      {% for p in PAGES|sort(attribute='filename') %}
+          <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+      {% endfor %}
+ * Prepend your page file names with numbers, e.g. 00about.rst, 10projects.rst and so on.
+This will get the pages in the order of your choice without messing up your slug. (Default page ordering is putting a case-sensitive alphabetical order by slug, in case you wondered.)
