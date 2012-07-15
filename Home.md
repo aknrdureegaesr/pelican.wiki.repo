@@ -11,3 +11,5 @@ Pelican is in heavy development with an active development team. Feature request
 
 ## Examples
 For examples of pelican sites please see [Powered By Pelican](wiki/Powered-by-Pelican). If you have a pelican site of your own please feel free to add it!
+
+Also feel free to add your own [Tips & Tricks](wiki/Tips-n-Tricks) to the wiki.
