@@ -25,4 +25,13 @@ Add your site to the bottom of this list. Please highlight the features in your 
     * quick theme development script from 3.0
     * Disquis comments
 
+
+***
+
+## bottlepy-dev
+
+- Site: http://blog.bottlepy.org
+- Source:  https://github.com/defnull/blog.bottlepy.org
+- Theme: bottle-theme (based on notmyidea)
+
 ***
