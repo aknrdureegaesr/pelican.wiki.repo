@@ -44,3 +44,8 @@ Add your site to the bottom of this list. Please highlight the features in your 
 
 ***
 
+## notmyidea.org
+
+- Site: http://blog.notmyidea.org
+- Source:  https://github.com/ametaireau/notmyidea
+- Theme: a modified version of the "notmyidea" one.
