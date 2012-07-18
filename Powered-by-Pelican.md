@@ -49,3 +49,20 @@ Add your site to the bottom of this list. Please highlight the features in your 
 - Site: http://blog.notmyidea.org
 - Source:  https://github.com/ametaireau/notmyidea
 - Theme: a modified version of the "notmyidea" one.
+
+***
+
+## dev-random.info
+
+- Site: http://dev-random.info
+- Source:  https://github.com/m-r-r/dev-random.info
+- Theme: dev-random
+- Features:
+    * Custom Makefile
+    * Custom theme with custom templates
+    * Disqus comments
+    * Google analytics
+    * Translations
+    * Tag cloud
+
+***
