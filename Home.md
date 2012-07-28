@@ -1,15 +1,26 @@
-Welcome to the pelican wiki!
+Welcome to the Pelican wiki!
 
-## Get started
-For information on getting started please see [the documentation](http://pelican.notmyidea.org).
-The latest version of the development documents [are here](https://github.com/ametaireau/pelican/tree/master/docs).
+## Getting Started
 
-For extra themes please check out [Pelican Themes](https://github.com/ametaireau/pelican-themes)
+For information on the current release version, please refer to the [Pelican documentation](http://docs.getpelican.com/).
+For those using the bleeding-edge version, refer to the corresponding [in-development documentation](http://docs.getpelican.com/latest/).
 
-## Contribute
-Pelican is in heavy development with an active development team. Feature requests and bug requests are welcome [in the issue tracker](https://github.com/ametaireau/pelican/issues). You can also chat out your problems in the IRC channel #pelican on FreeNode. All assistance with development is encouraged as well; you can find notes on how to contribute [here](https://github.com/ametaireau/pelican/blob/master/docs/contribute.rst).
+Additional themes can be found in the [Pelican Themes](https://github.com/getpelican/pelican-themes) repository.
 
-## Examples
-For examples of pelican sites please see [Powered By Pelican](wiki/Powered-by-Pelican). If you have a pelican site of your own please feel free to add it!
+## Getting Help
 
-Also feel free to add your own [Tips & Tricks](wiki/Tips-n-Tricks) to the wiki.
+If you have any problems, questions, or suggestions, please start by striking up a conversation on [#pelican on irc.freenode.org](irc://irc.freenode.net/pelican). Those who don't have an IRC client handy can jump in immediately via [IRC webchat](http://webchat.freenode.net/?channels=pelican&uio=d4). Because of differing time zones, you may not get an immediate response to your question, but please be patient and stay logged into IRC — someone will almost always respond.
+
+If you are unable to resolve your issue or if you have a feature request, please refer to the [issue tracker](https://github.com/getpelican/pelican/issues).
+
+## Contributing
+
+Pelican is continually being refined by an active development team. Contributions are encouraged and appreciated, even if you are new to Python and/or GitHub. Refer to the [How to Contribute](http://docs.getpelican.com/en/latest/contribute.html) documentation for more details.
+
+## Sites Powered by Pelican
+
+For examples of Pelican sites please see [Powered by Pelican](wiki/Powered-by-Pelican). If you have a Pelican site of your own please feel free to add it!
+
+## Tips & Tricks
+
+If you have a tip that you feel doesn't belong in the documentation, feel free to add your own [Tips & Tricks](wiki/Tips-n-Tricks) to the wiki.
