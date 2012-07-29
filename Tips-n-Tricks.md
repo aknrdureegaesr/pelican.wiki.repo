@@ -13,6 +13,13 @@ publish:
 	cp $(BASEDIR)/extras/* $(OUTPUTDIR)/
 ```
 
+or just add to `pelican.conf` next lines:
+
+```
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
+                 ('extra/favicon.ico', 'favicon.ico'),)
+```
+
 ## Make vs Rake vs Fabric
 
 Make is available on almost any Unix-derived system but is old and can be clunky for building anything other than code. Many people prefer to use Rake (ruby make) or [Fabric][] (a Pythonic tool for remote execution and deployment). Please post your examples and tips below for awesome development, testing, and deployment.
