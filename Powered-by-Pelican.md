@@ -84,6 +84,11 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://williamting.com/
 - Source: https://github.com/wting/williamting.com
 - Theme: [svbtle](https://github.com/wting/pelican-svbtle)
+- Features:
+    * code syntax highlighting
+    * Disqus comments
+    * Google analytics
+    * custom link list
 
 ## samrat.me
 
