@@ -96,5 +96,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/samrat/samrat.github.com
 - Theme: [syte](https://github.com/getpelican/pelican-themes/tree/master/syte)
 
+## dirkjan.ochtman.nl
+
+- Site: http://dirkjan.ochtman.nl/
+- Theme: custom, inspired by Octopress
 
 [notmyidea]: https://github.com/getpelican/pelican/tree/master/pelican/themes/notmyidea
