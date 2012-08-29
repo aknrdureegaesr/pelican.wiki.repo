@@ -101,4 +101,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://dirkjan.ochtman.nl/
 - Theme: custom, inspired by Octopress
 
+## azizmb.in
+
+- Site: http://azizmb.in/
+- Theme: https://github.com/azizmb/pelican-bootstrap-responsive-theme
+
 [notmyidea]: https://github.com/getpelican/pelican/tree/master/pelican/themes/notmyidea
