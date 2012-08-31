@@ -106,4 +106,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://azizmb.in/
 - Theme: https://github.com/azizmb/pelican-bootstrap-responsive-theme
 
+## cd /etc
+
+- Site: http://cdetc.fr
+- Theme: https://github.com/alexex/bootlex
+
 [notmyidea]: https://github.com/getpelican/pelican/tree/master/pelican/themes/notmyidea
