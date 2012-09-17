@@ -106,6 +106,23 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://azizmb.in/
 - Theme: https://github.com/azizmb/pelican-bootstrap-responsive-theme
 
+## jonathanmarvens.com
+
+- Features:
+    * Hosted on Google App Engine using [DryDrop][].
+    * Custom.
+    * Created a script to pull latest commits by repositories using the GitHub v3 API.
+    * 404 page with help from [DryDrop][].
+    * And more.
+- Site: http://jonathanmarvens.com
+- Source: https://github.com/jonathanmarvens/jonathanmarvens.com
+- Theme: Custom, made using [Twitter Boostrap][], [FontAwesome][], and [Glyphicons][].
+
+[DryDrop]: http://drydrop.binaryage.com
+[Twitter Boostrap]: http://twitter.github.com/bootstrap/
+[FontAwesome]: http://fortawesome.github.com/Font-Awesome/
+[Glyphicons]: http://glyphicons.com
+
 ## cd /etc
 
 - Site: http://cdetc.fr
