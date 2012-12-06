@@ -129,3 +129,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: https://github.com/alexex/bootlex
 
 [notmyidea]: https://github.com/getpelican/pelican/tree/master/pelican/themes/notmyidea
+
+## i.com.pk
+
+- Site: http://www.i.com.pk
+- Theme: Custom Designed
+- Features:
+    * HTML5
+    * Responsive design
+    * Typogrify
+    * pygment
+    * Imported from posterous
+    * Hosted on Heroku using Static, gunicorn and gevent
