@@ -5,12 +5,12 @@ If you used the `pelican-quickstart` command to create a Makefile and want certa
 ```
  $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	cp $(BASEDIR)/extras/* $(OUTPUTDIR)/
+	if test -d $(BASEDIR)/extras; then cp $(BASEDIR)/extras/* $(OUTPUTDIR)/; fi
 ```
 ```
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	cp $(BASEDIR)/extras/* $(OUTPUTDIR)/
+	if test -d $(BASEDIR)/extras; then cp $(BASEDIR)/extras/* $(OUTPUTDIR)/; fi
 ```
 
 or just add to `pelican.conf` next lines:
