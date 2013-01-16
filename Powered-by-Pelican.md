@@ -146,3 +146,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: http://www.decayfilm.com/
 - Theme: (Heavily modified notmyidea) https://github.com/brookst/decay
+
+## nwcpp.org
+
+- Site: http://nwcpp.org/
+- Source: https://github.com/nwcpp/pelican-site
+- Theme: a lightly modified version of [notmyidea]
+- Conversion described at http://nwcpp.org/2013-website-refresh.html
