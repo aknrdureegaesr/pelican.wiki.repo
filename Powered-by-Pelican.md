@@ -153,3 +153,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/nwcpp/pelican-site
 - Theme: a lightly modified version of [notmyidea]
 - Conversion described at http://nwcpp.org/2013-website-refresh.html
+
+##mozillazg.com
+
+* Site: <http://mozillazg.com>
+* Source: <https://github.com/mozillazg/mozillazg.com>
+* Theme: [relapse](https://github.com/wamonite/relapse)
+
