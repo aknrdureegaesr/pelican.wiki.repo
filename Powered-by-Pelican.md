@@ -160,3 +160,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 * Source: <https://github.com/mozillazg/mozillazg.com>
 * Theme: [relapse](https://github.com/wamonite/relapse)
 
+## arduino.ada-language.com
+
+* Site: http://arduino.ada-language.com/
+* Source: https://bitbucket.org/tkoskine/arduino-blog/
+* Theme: Custom, based on [skeleton](http://getskeleton.com)
+* Features:
+    * Disqus comments
