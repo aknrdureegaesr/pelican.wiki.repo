@@ -1,4 +1,3 @@
-
 While some of this information repeats documentation that is already available on [GitHub Help](https://help.github.com), we thought it might be useful to collect and publish some of the most relevant information.
 
 Forking Pelican
@@ -67,3 +66,8 @@ When prompted, choose "squash" for all of your commits, except the first one.
 Edit the commit message to make sense, and describe all your changes. Finally, push your changes via:
 
     git push --force origin newfeaturebranch
+
+Relevant Resources
+------------------
+
+* [Git merge vs. rebase](http://mislav.uniqpath.com/2013/02/merge-vs-rebase/)
