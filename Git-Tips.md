@@ -62,8 +62,9 @@ If you are asked to squash your commits:
     git rebase upstream/master
     git rebase -i
 
-When prompted, choose "squash" for all of your commits, except the first one.
-Edit the commit message to make sense, and describe all your changes. Finally, push your changes via:
+When prompted, mark your initial commit with *pick*, and all your follow-on commits with *squash*.
+
+Then edit the commit message to make sense, taking out any extraneous information and succinctly describing your changes. Finally, push your changes via:
 
     git push --force origin newfeaturebranch
 
