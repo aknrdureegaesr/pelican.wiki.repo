@@ -175,5 +175,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 * Theme: Custom minimalist based on [bootstrap](http://getbootstrap.com)
 * Features:
    * Disqus comments
-   * Arquives by subject and categories
+   * Arquives by dates and categories (subjects)
    * Breadcrumb navigation
+   * Next; Previous article
