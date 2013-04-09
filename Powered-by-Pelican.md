@@ -178,3 +178,16 @@ Add your site to the bottom of this list, highlighting any features that may ser
    * Arquives by dates and categories (subjects)
    * Breadcrumb navigation
    * Next; Previous article
+
+
+## notmyidea.org
+
+- Site: http://databrewery.org
+- Site: http://blog.databrewery.org
+- Source: https://github.com/Stiivi/databrewery.org
+- Theme: custom theme
+- Features:
+    * Two projects, one blog and main page (single page, just reusing shared theme settings)
+    * Simple plugin for generating content of boxes on pages
+    * Custom Makefile
+
