@@ -180,7 +180,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
    * Next; Previous article
 
 
-## notmyidea.org
+## databrewery.org
 
 - Site: http://databrewery.org
 - Site: http://blog.databrewery.org
