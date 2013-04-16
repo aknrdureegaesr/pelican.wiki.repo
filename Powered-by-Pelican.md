@@ -191,3 +191,17 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Simple plugin for generating content of boxes on pages
     * Custom Makefile
 
+## michaelreneer.com
+
+- Site: http://michaelreneer.com/
+- Source: https://github.com/michaelreneer/michaelreneer.github.com
+- Theme: customized based on [HTML5 Boilerplate](http://html5boilerplate.com)
+- Features:
+    * Responsive design with [Bootstrap](http://twitter.github.io/bootstrap/)
+    * [Normalize.css](http://necolas.github.io/normalize.css/)
+    * [Twitter Buttons](https://twitter.com/about/resources/buttons) & [GitHub Buttons](http://ghbtns.com)
+    * Clean URLs
+    * Custom Makefile
+    * Pygments, webassets, Markdown
+    * Disqus comments
+    * Google analytics
