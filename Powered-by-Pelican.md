@@ -205,3 +205,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Pygments, webassets, Markdown
     * Disqus comments
     * Google analytics
+
+## arunrocks.com
+
+- Site: http://arunrocks.com/
+- Source: Not released. Ideas and inspiration http://arunrocks.com/moving-blogs-to-pelican/
+- Theme: custom built from scratch
+- Features:
+    * Mobile-first Responsive design
+    * Markdown extension for pullquote
+
