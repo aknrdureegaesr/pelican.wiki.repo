@@ -215,3 +215,14 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Mobile-first Responsive design
     * Markdown extension for pullquote
 
+## avar.is
+
+- Site: http://avar.is/
+- Source: not released
+- Theme: custom built from scratch
+- Features:
+    * HTML5/CSS3 responsive design
+    * Deployment automation with [gitolite](https://github.com/sitaramc/gitolite) hooks
+    * pygments
+    * plugins: assets, typogrify, neighbors and a custom plugin for tag hierarchy
+    
