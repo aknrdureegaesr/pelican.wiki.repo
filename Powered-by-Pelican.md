@@ -225,4 +225,12 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Deployment automation with [gitolite](https://github.com/sitaramc/gitolite) hooks
     * pygments
     * plugins: assets, typogrify, neighbors and a custom plugin for tag hierarchy
+
+## Sparsebundle
+
+- Site: http://www.sparsebundle.net/
+- Theme: custom
+- Features:
+    * HTML5/CSS3 responsive design based upon ZURB Foundation
+    * Custom Dropbox implementation and trigger file to force refresh on demand (http://www.sparsebundle.net/posts/remotely-update-pelican-via-dropbox/)
     
