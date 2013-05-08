@@ -233,4 +233,14 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
     * HTML5/CSS3 responsive design based upon ZURB Foundation
     * Custom Dropbox implementation and trigger file to force refresh on demand (http://www.sparsebundle.net/posts/remotely-update-pelican-via-dropbox/)
+
+## GregReda.com
+
+- Site: http://www.gregreda.com/
+- Theme: custom based on [Skeleton](http://getskeleton.com)
+- Features:
+    * Mobile-responsive design
+    * Google Analytics
+    * Disqus comments
+    * Pygments
     
