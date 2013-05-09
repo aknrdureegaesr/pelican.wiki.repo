@@ -197,8 +197,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/michaelreneer/michaelreneer.github.io
 - Theme: customized based on [HTML5 Boilerplate](http://html5boilerplate.com)
 - Features:
-    * Responsive design with [Bootstrap](http://twitter.github.io/bootstrap/)
-    * [Normalize.css](http://necolas.github.io/normalize.css/)
+    * Mobile first responsive design with [Bootstrap](http://twitter.github.io/bootstrap/) & [Normalize.css](http://necolas.github.io/normalize.css/)
     * [Twitter Buttons](https://twitter.com/about/resources/buttons) & [GitHub Buttons](http://ghbtns.com)
     * Clean URLs
     * Custom Makefile
