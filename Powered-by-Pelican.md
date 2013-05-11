@@ -9,6 +9,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Original inspiration for creating Pelican :smile:
     * Custom Makefile
 
+## bekirkarul.com
+
+- Site: http://bekirkarul.com
+- Theme: a modified version of [neat]
+- Features:
+    * Edited theme
+
 ## kylefuller.co.uk
 
 - Site: http://kylefuller.co.uk/
