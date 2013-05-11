@@ -242,4 +242,12 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Google Analytics
     * Disqus comments
     * Pygments
-    
+
+## bytefish.de
+
+- Site: http://www.bytefish.de
+- Source: https://github.com/bytefish/bytefish.de
+- Theme: custom
+- Features:
+    * Disqus comments
+    * Pygments
