@@ -258,3 +258,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
     * Disqus comments
     * Pygments
+
+Site: http://varunksaini.com/
+Source: https://github.com/varun06/varunsainiblog
+Theme: svbtle (Modified)
+Features:
+    * code syntax highlighting
+    * Disqus comments
