@@ -1,21 +1,25 @@
 ## Copying favicon/robots.txt
 
-If you used the `pelican-quickstart` command to create a Makefile and want certain files copied to your web root — such as favicon.ico, robots.txt, or other files — create a folder called `extras` next to your Makefile and edit your Makefile to look like this:
+### First solution
+
+If you used the `pelican-quickstart` command to create a Makefile and want certain files copied to your web root — such as `favicon.ico`, `robots.txt`, or other files — create a folder called `extra` next to your Makefile and edit your Makefile to look like this:
 
 ```
  $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	if test -d $(BASEDIR)/extras; then cp $(BASEDIR)/extras/* $(OUTPUTDIR)/; fi
+	if test -d $(BASEDIR)/extra; then cp $(BASEDIR)/extra/* $(OUTPUTDIR)/; fi
 ```
 ```
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	if test -d $(BASEDIR)/extras; then cp $(BASEDIR)/extras/* $(OUTPUTDIR)/; fi
+	if test -d $(BASEDIR)/extra; then cp $(BASEDIR)/extra/* $(OUTPUTDIR)/; fi
 ```
 
-or just add to `pelican.conf` next lines:
+### Second solution, using `FILES_TO_COPY`
 
-```
+Assuming that you have `favicon.ico` and `robots.txt` in the `content/extra/` folder, just add the  next lines to `pelican.conf`:
+
+```python
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
                  ('extra/favicon.ico', 'favicon.ico'),)
 ```
