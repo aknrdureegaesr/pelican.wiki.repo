@@ -267,3 +267,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
     * code syntax highlighting
     * Disqus comments
+
+## unikorn.me
+
+- Site: http://blog.unikorn.me
+- Source: not released
+- Features
+    * Custom theme based on amazium
+        * super-lightweight
+        * responsive design - works on mobile and desktop
+        * Dynamic canvas background
+    * Disqus comments
+    * syntax highlighting
