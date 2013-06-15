@@ -87,3 +87,9 @@ Finally, you should set `SITEMAP_SAVE_AS` variable for saving result as 'sitemap
 ```python
 SITEMAP_SAVE_AS = 'sitemap.xml'
 ```
+
+## pelican-mode for Emacs
+
+https://github.com/joewreschnig/pelican-mode
+
+pelican-mode has commands for generating post files, as well as rebuild and uploading sites from emacs.
