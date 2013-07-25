@@ -6,6 +6,7 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-Microdata](https://github.com/noirbizarre/pelican-microdata)
 * [Pelican-Minify](https://github.com/rdegges/pelican-minify)
 * [Pelican-Social](https://github.com/noirbizarre/pelican-social)
+* [Pelican-TitleCase](https://github.com/jrarseneau/pelican-titlecase)
 
 The following are not plugins but are tools related to the Pelican ecosystem:
 
