@@ -279,3 +279,12 @@ Add your site to the bottom of this list, highlighting any features that may ser
         * Dynamic canvas background
     * Disqus comments
     * syntax highlighting
+
+## ascraeus.org
+
+- Site: http://ascraeus.org
+- Source: not released
+- Theme: Custom based on old tumblr theme, now utilising [Skeleton](http://getskeleton.com)
+- Features:
+    * Responsive design
+    * disqus comments
