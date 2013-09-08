@@ -288,3 +288,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
     * Responsive design
     * disqus comments
+
+## aaron.kavlie.net
+
+- Site: http://aaron.kavlie.net
+- Theme: Custom based on [mnmlist](https://github.com/getpelican/pelican-themes/tree/master/mnmlist)
