@@ -293,3 +293,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: http://aaron.kavlie.net
 - Theme: Custom based on [mnmlist](https://github.com/getpelican/pelican-themes/tree/master/mnmlist)
+
+
+## onCrash = Reboot()
+
+- Site: http://oncrashreboot.com/
+- Source: https://github.com/talha131/onCrashReboot
+- Theme: [Elegant](http://oncrashreboot.com/pelican-elegant/)
+- Features:
+    * Site Search using open source Tipue Search plugin
+    * Mailchimp support
+    * Responsive design
+    * Clean but elegant UI
