@@ -295,7 +295,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: Custom based on [mnmlist](https://github.com/getpelican/pelican-themes/tree/master/mnmlist)
 
 
-## onCrash = Reboot()
+## onCrash = Reboot();
 
 - Site: http://oncrashreboot.com/
 - Source: https://github.com/talha131/onCrashReboot
