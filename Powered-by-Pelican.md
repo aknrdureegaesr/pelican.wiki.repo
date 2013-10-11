@@ -305,3 +305,14 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Mailchimp support
     * Responsive design
     * Clean but elegant UI
+
+## Naeka Blog
+
+- Site: https://blog.naeka.fr/
+- Theme: Custom, made using [Twitter Bootstrap 3](http://getbootstrap.com/)
+- Features:
+    * Deployment automation via Travis-CI
+    * Responsive design
+    * Minimalist
+    * Google analytics
+    * Pagination
