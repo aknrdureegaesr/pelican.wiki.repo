@@ -28,7 +28,63 @@ FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
 
 Make is available on almost any Unix-derived system but is old and can be clunky for building anything other than code. Many people prefer to use Rake (ruby make) or [Fabric][] (a Pythonic tool for remote execution and deployment). Please post your examples and tips below for awesome development, testing, and deployment.
 
-**(good stuff goes here)**
+### make newpost
+
+You can edit your Makefile to give you a handful of new commands that might make it slightly easier to get writing.  Just add the following lines to your Makefile:
+
+```make
+PAGESDIR=$(INPUTDIR)/pages
+DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
+SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
+EXT ?= md
+
+newpost:
+ifdef NAME
+	echo "Name: $(NAME)" >  $(INPUTDIR)/$(SLUG).$(EXT)
+	echo "Slug: $(SLUG)" >> $(INPUTDIR)/$(SLUG).$(EXT)
+	echo "Date: $(DATE)" >> $(INPUTDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(SLUG).$(EXT)
+	${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpost NAME='"'"'Post Name'"'"
+endif
+
+editpost:
+ifdef NAME
+	${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make editpost NAME='"'"'Post Name'"'"
+endif
+
+newpage:
+ifdef NAME
+	echo "Name: $(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo "Slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpage NAME='"'"'Page Name'"'"
+endif
+
+editpage:
+ifdef NAME
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make editpage NAME='"'"'Page Name'"'"
+endif
+```
+
+To use this, make sure you've set the EDITOR environment variable to the name of your favourite editor, (or set it again within the Makefile), and then do
+```bash
+$ make newpost NAME='Your Exciting Post Name Here'
+```
+Your editor will appear with the beginnings of a new post.  You can set 'EXT' to whatever extension you use most often, and then overwrite it by passing `"EXT='newext'"` to make.  Equally, this change assumes that all your pages are stored in `content/pages`, which may not be true for you.  This sample should work well enough for you to base any modifications off, though.
 
 
 [Fabric]: http://www.fabfile.org/
