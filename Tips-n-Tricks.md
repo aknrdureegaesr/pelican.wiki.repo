@@ -40,7 +40,7 @@ EXT ?= md
 
 newpost:
 ifdef NAME
-	echo "Name: $(NAME)" >  $(INPUTDIR)/$(SLUG).$(EXT)
+	echo "Title: $(NAME)" >  $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "Slug: $(SLUG)" >> $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "Date: $(DATE)" >> $(INPUTDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(INPUTDIR)/$(SLUG).$(EXT)
@@ -61,7 +61,7 @@ endif
 
 newpage:
 ifdef NAME
-	echo "Name: $(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo "Title: $(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
 	echo "Slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
