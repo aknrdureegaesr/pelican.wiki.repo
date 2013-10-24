@@ -59,8 +59,7 @@ If you are asked to squash your commits:
 
     git checkout newfeaturebranch
     git fetch upstream
-    git rebase upstream/master
-    git rebase -i
+    git rebase -i upstream/master
 
 When prompted, mark your initial commit with *pick*, and all your follow-on commits with *squash*.
 
