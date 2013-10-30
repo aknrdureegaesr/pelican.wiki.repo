@@ -10,4 +10,4 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 The following are not plugins but are tools related to the Pelican ecosystem:
 
 * [SublimePelican](https://github.com/jsliang/sublime-pelican)
-* [Vim UltiSnips snippet for Markdown](https://github.com/talha131/dotfiles/blob/master/vim/vim/my_UltiSnips/markdown.snippets)
+* [Vim UltiSnips snippet](https://github.com/talha131/dotfiles/blob/master/vim/vim/my_UltiSnips/markdown.snippets)
