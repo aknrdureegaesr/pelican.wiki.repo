@@ -316,3 +316,11 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Minimalist
     * Google analytics
     * Pagination
+
+## nortonwang.com
+
+- Site: http://nortonwang.com/
+- Source: https://github.com/FloorLamp/nortonwang-com
+- Theme: Custom
+- Features:
+    * Minimal and responsive
