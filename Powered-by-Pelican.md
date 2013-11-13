@@ -324,3 +324,14 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: Custom
 - Features:
     * Minimal and responsive
+
+## johz.me
+
+- Site: http://johz.me/
+- Source: Will be up later
+- Theme: https://github.com/MrJohz/pillbox-theme + extras
+- Features:
+    * Minimal, flat design
+    * Client-side persistent theme switcher
+    * Random quotes
+    * Piwik, disqus support
