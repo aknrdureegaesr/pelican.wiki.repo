@@ -335,3 +335,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Client-side persistent theme switcher
     * Random quotes
     * Piwik, disqus support
+
+## pythonrs.org
+
+- Site: http://pythonrs.org
+- Source: http://github.com/berlotto
+- Theme: https://github.com/berlotto/bootstrap-simple-plus
+- Features:
+    * Bootstraped
+    * Disqus
+    * Statcounter
