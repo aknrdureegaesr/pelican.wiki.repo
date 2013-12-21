@@ -4,4 +4,6 @@ You can [use Travis-CI to publish to GitHub Pages](http://zonca.github.io/2013/0
 
 It's possible to [create "Linked List" posts](https://gist.github.com/jasonpbecker/7539951) that behave differently from standard posts.
 
+[Remotely update Pelican via Dropbox](http://www.sparsebundle.net/posts/remotely-update-pelican-via-dropbox/)
+
 If you have published a Pelican-related tutorial on your own site, please create a link to your tutorial on this page.
