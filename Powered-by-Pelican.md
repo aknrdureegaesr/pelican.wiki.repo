@@ -68,24 +68,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/walkermatt/longwayaround.org.uk
 - Theme: https://github.com/walkermatt/longwayaround.org.uk_theme
 
-## dev-random.info
-
-- Site: http://dev-random.info/
-- Source: https://github.com/m-r-r/dev-random.info
-- Theme: [dev-random](https://github.com/getpelican/pelican-themes/tree/master/dev-random)
-- Features:
-    * Custom Makefile
-    * Custom theme with custom templates
-    * Disqus comments
-    * Google analytics
-    * Translations
-    * Tag cloud
-
-## julo.ch
-
-- Site: http://www.julo.ch/
-- Theme: [bootlex](https://github.com/getpelican/pelican-themes/tree/master/bootlex)
-
 ## williamting.com
 
 - Site: http://williamting.com/
@@ -97,12 +79,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Google analytics
     * custom link list
 
-## samrat.me
-
-- Site: http://samrat.me/
-- Source: https://github.com/samrat/samrat.github.com
-- Theme: [syte](https://github.com/getpelican/pelican-themes/tree/master/syte)
-
 ## dirkjan.ochtman.nl
 
 - Site: http://dirkjan.ochtman.nl/
@@ -112,30 +88,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: http://azizmb.in/
 - Theme: https://github.com/azizmb/pelican-bootstrap-responsive-theme
-
-## jonathanmarvens.com
-
-- Features:
-    * Hosted on Google App Engine using [DryDrop][].
-    * Custom.
-    * Created a script to pull latest commits by repositories using the GitHub v3 API.
-    * 404 page with help from [DryDrop][].
-    * And more.
-- Site: http://jonathanmarvens.com
-- Source: https://github.com/jonathanmarvens/jonathanmarvens.com
-- Theme: Custom, made using [Twitter Boostrap][], [FontAwesome][], and [Glyphicons][].
-
-[DryDrop]: http://drydrop.binaryage.com
-[Twitter Boostrap]: http://twitter.github.com/bootstrap/
-[FontAwesome]: http://fortawesome.github.com/Font-Awesome/
-[Glyphicons]: http://glyphicons.com
-
-## cd /etc
-
-- Site: http://cdetc.fr
-- Theme: https://github.com/alexex/bootlex
-
-[notmyidea]: https://github.com/getpelican/pelican/tree/master/pelican/themes/notmyidea
 
 ## i.com.pk
 
@@ -231,14 +183,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Deployment automation with [gitolite](https://github.com/sitaramc/gitolite) hooks
     * pygments
     * plugins: assets, typogrify, neighbors and a custom plugin for tag hierarchy
-
-## Sparsebundle
-
-- Site: http://www.sparsebundle.net/
-- Theme: custom
-- Features:
-    * HTML5/CSS3 responsive design based upon ZURB Foundation
-    * Custom Dropbox implementation and trigger file to force refresh on demand (http://www.sparsebundle.net/posts/remotely-update-pelican-via-dropbox/)
 
 ## gregreda.com
 
