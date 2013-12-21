@@ -6,8 +6,10 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-Microdata](https://github.com/noirbizarre/pelican-microdata)
 * [Pelican-Minify](https://github.com/rdegges/pelican-minify)
 * [Pelican-Social](https://github.com/noirbizarre/pelican-social)
+* [Pelican-TitleCase](https://github.com/jrarseneau/pelican-titlecase)
 
 The following are not plugins but are tools related to the Pelican ecosystem:
 
 * [SublimePelican](https://github.com/jsliang/sublime-pelican)
 * [Vim UltiSnips snippet](https://github.com/talha131/dotfiles/blob/master/vim/vim/my_UltiSnips/markdown.snippets)
+* [pelican-mode for Emacs](https://github.com/joewreschnig/pelican-mode)
