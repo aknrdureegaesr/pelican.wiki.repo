@@ -289,3 +289,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Bootstraped
     * Disqus
     * Statcounter
+
+## letchap.github.io
+
+- Site: http://letchap.github.io
+- Source: https://github.com/letchap/letchap.github.io
+- Theme: https://github.com/letchap/letchap.github.io/tree/source/mon-theme
+- Features:
+    * Bootstraped (based on pelican-bootstrap3 theme)
+    * Disqus
+    * Google analytics
+    * RSS feed
+    * Pygments
