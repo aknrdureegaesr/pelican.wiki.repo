@@ -320,3 +320,14 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
     * RSS feed
     * Pygments
+
+
+## sagar.se
+
+- Site: http://sagar.se
+- Source: https://github.com/sagarbehere/sagar.se
+- Theme: a slightly modified version of [pelican-octopress-theme](https://github.com/duilio/pelican-octopress-theme)
+- Theme source: https://github.com/sagarbehere/pelican-octopress-theme
+- Features:
+    * Dropdown CSS menu in navbar
+    * https friendly. No mixed content warnings
