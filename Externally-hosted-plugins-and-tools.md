@@ -13,3 +13,4 @@ The following are not plugins but are tools related to the Pelican ecosystem:
 * [SublimePelican](https://github.com/jsliang/sublime-pelican)
 * [Vim UltiSnips snippet](https://github.com/talha131/dotfiles/blob/master/vim/vim/my_UltiSnips/markdown.snippets)
 * [pelican-mode for Emacs](https://github.com/joewreschnig/pelican-mode)
+* [pelican-shovel](https://github.com/dandesousa/pelican-shovel) — create and edit posts/pages
