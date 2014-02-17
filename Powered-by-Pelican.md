@@ -329,3 +329,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: http://bekirkarul.com
 - Theme: a modified version of [neat]
+
+## omphalosskeptic.github.io
+
+- Site: http://omphalosskeptic.github.io
+- Source: https://github.com/omphalosskeptic/omphalosskeptic.github.io
+- Theme: Based on Simple
+- Features:
+    * Minimal design & Readable Typography
+
+![Screenshot](http://omphalosskeptic.github.io/theme/images/thissite.png)
