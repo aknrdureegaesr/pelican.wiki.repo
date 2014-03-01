@@ -6,6 +6,7 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-Gist](https://github.com/streeter/pelican-gist)
 * [Pelican-Microdata](https://github.com/noirbizarre/pelican-microdata)
 * [Pelican-Minify](https://github.com/rdegges/pelican-minify)
+* [Pelican-Sitemap-Extended](https://github.com/dArignac/pelican-extended-sitemap)
 * [Pelican-Social](https://github.com/noirbizarre/pelican-social)
 * [Pelican-TitleCase](https://github.com/jrarseneau/pelican-titlecase)
 
