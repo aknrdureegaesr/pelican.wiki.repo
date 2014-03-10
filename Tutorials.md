@@ -7,3 +7,5 @@ If you have published a Pelican-related tutorial on your own site, please create
 - It's possible to [create "Linked List" posts](https://gist.github.com/jasonpbecker/7539951) that behave differently from standard posts.
 
 - [Remotely update Pelican via Dropbox](http://www.sparsebundle.net/posts/remotely-update-pelican-via-dropbox/)
+
+- [Add a custom Jinja filter for use in your templates](http://linkpeek.com/blog/how-to-add-a-custom-jinja-filter-to-pelican.html)
