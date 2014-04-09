@@ -289,11 +289,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/letchap/letchap.github.io
 - Theme: https://github.com/letchap/letchap.github.io/tree/source/mon-theme
 - Features:
-    * Bootstraped (based on pelican-bootstrap3 theme)
+    * Theme Foundation
     * Disqus
     * Google analytics
     * RSS feed
     * Pygments
+    * Custom markdown extension to include code
+
 
 ## Data Driven Security
 
