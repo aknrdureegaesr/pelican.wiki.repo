@@ -24,7 +24,7 @@ Create and switch to a new branch to house your feature or bugfix (replace `newf
 
 Once you are satisfied with your changes, run the tests and check coding standards:
 
-    unit2 discover
+    python -m unittest discover
     flake8
 
 Once the tests all pass and you are comfortable that your code complies with the suggested coding standards, add and commit your changes:
