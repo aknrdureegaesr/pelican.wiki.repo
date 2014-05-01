@@ -341,3 +341,17 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Minimal design & Readable Typography
 
 ![Screenshot](http://omphalosskeptic.github.io/theme/images/thissite.png)
+
+## zufallsheld.de
+
+- Site: http://zufallsheld.de
+- Source: https://github.com/rndmh3ro/blog
+- Theme: Customized pelican-bootstrap3
+- Features:
+    * [isso](https://github.com/posativ/isso) commenting system, self-hosted
+    * Piwik support
+    * minimalist, responsive design
+    * RSS feeds
+
+
+
