@@ -16,3 +16,4 @@ The following are not plugins but are tools related to the Pelican ecosystem:
 * [Vim UltiSnips snippet](https://github.com/talha131/dotfiles/blob/master/vim/vim/my_UltiSnips/markdown.snippets)
 * [pelican-mode for Emacs](https://github.com/joewreschnig/pelican-mode)
 * [pelican-shovel](https://github.com/dandesousa/pelican-shovel) — create and edit posts/pages
+* [pelican-preview](http://pelican-preview.herokuapp.com/) - preview pelican themes from pelican-themes [repository](https://github.com/getpelican/pelican-themes)
