@@ -353,5 +353,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * minimalist, responsive design
     * RSS feeds
 
+## thesoldiersfamily.com
 
+- Site: http://www.thesoldiersfamily.com
+- Source: Not Published
+- Theme: Custom based on porto
+- Features:
+    * Search
+    * Responsive
+    * Normal web page stuff
 
