@@ -363,3 +363,19 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Responsive
     * Normal web page stuff
 
+## pythonclub.com.br
+
+- Site: pythonclub.com.br
+- Source: https://github.com/pythonclub/pythonclub.github.io
+- Theme: Custom based on http://purepelican.com/ theme
+- Features:
+    * Search
+    * Responsive by google search
+    * Normal web page stuff
+    * RSS feeds
+    * Disqus
+    * Share on Twitter, Facebook, Google+
+    * Author personal facebook, twitter, Linkedin, Github, Gittip, Bitbucket
+    * Google analytics
+    * Pygments
+    * Auto-generation from github service hooks
