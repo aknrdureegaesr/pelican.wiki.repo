@@ -14,6 +14,8 @@ This adds a "remote" for your fork called "origin". Add the canonical Pelican pr
     cd pelican
     git remote add upstream https://github.com/getpelican/pelican.git
 
+Note that in the above commands, if you are contributing to the [Pelican Plugins](https://github.com/getpelican/pelican-plugins) or [Pelican Themes](https://github.com/getpelican/pelican-themes) projects, `pelican.git` should be replaced with `pelican-plugins.git` or `pelican-themes.git`, respectively.
+
 Making your changes
 -------------------
 
