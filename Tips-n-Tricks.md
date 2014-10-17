@@ -15,13 +15,16 @@ publish:
 	if test -d $(BASEDIR)/extra; then cp $(BASEDIR)/extra/* $(OUTPUTDIR)/; fi
 ```
 
-### Second solution, using `FILES_TO_COPY`
+### Second solution, using `STATIC_PATHS`
 
-Assuming that you have `favicon.ico` and `robots.txt` in the `content/extra/` folder, just add the  next lines to `pelican.conf`:
+Add `favicon.ico` and `robots.txt` to the `content/extra` folder and add the following to `pelican.conf`:
 
 ```python
-FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
-                 ('extra/favicon.ico', 'favicon.ico'),)
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.png']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.png': {'path': 'favicon.png'}
+}
 ```
 
 ## Make vs Rake vs Fabric
