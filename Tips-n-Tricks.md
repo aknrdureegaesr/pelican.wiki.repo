@@ -20,10 +20,10 @@ publish:
 Add `favicon.ico` and `robots.txt` to the `content/extra` folder and add the following to `pelican.conf`:
 
 ```python
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.png']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.png': {'path': 'favicon.png'}
+    'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 ```
 
