@@ -17,7 +17,7 @@ publish:
 
 ### Second solution, using `STATIC_PATHS`
 
-Add `favicon.ico` and `robots.txt` to the `content/extra` folder and add the following to `pelican.conf`:
+Add `favicon.ico` and `robots.txt` to the `content/extra` folder and add the following to `pelicanconf.py`:
 
 ```python
 STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
