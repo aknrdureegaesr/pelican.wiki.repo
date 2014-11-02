@@ -1,6 +1,6 @@
 Add your site to the bottom of this list, highlighting any features that may serve as examples for others.
 
-## kernel.org
+## The Linux Kernel Archives
 
 - Site: https://www.kernel.org/pelican.html
 - Source: http://git.kernel.org/cgit/docs/kernel/website.git
