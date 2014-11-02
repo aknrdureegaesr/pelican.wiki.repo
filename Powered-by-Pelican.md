@@ -1,5 +1,10 @@
 Add your site to the bottom of this list, highlighting any features that may serve as examples for others.
 
+## kernel.org
+
+- Site: https://www.kernel.org/pelican.html
+- Source: http://git.kernel.org/cgit/docs/kernel/website.git
+
 ## notmyidea.org
 
 - Site: http://blog.notmyidea.org/
