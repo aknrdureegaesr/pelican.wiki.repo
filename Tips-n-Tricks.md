@@ -164,3 +164,19 @@ As long as [#420](https://github.com/getpelican/pelican/issues/420) isn't resolv
 ```
  * Prepend your page file names with numbers, e.g. 00about.rst, 10projects.rst and so on.
 This will get the pages in the order of your choice without messing up your slug. (Default page ordering is putting a case-sensitive alphabetical order by slug, in case you wondered.)
+
+## Custom Markdown Extensions
+
+The [Python-Markdown](https://pythonhosted.org/Markdown/) library (which Pelican uses to parse markdown documents) includes support for a number of [built-in](https://pythonhosted.org/Markdown/extensions/index.html#officially-supported-extensions) and [third party](https://github.com/waylan/Python-Markdown/wiki/Third-Party-Extensions) extensions and many of those extensions offer support for configuration options to alter their behavior. While Pelican does not offer a setting that would get passed into Markdown's [extension_configs](https://pythonhosted.org/Markdown/reference.html#extension_configs) keyword, Markdown does allow instances of extension classes to be passing in rather than the string names of the extensions. And, as Pelican's setting file is just Python, you can import your extensions, create an instance with the config options you want, and pass that in using Pelican's [MD_EXTENSIONS](http://pelican.readthedocs.org/en/3.5.0/settings.html#basic-settings) setting. Like so:
+
+```python
+from markdown.extensions.codehilite import CodeHiliteExtension
+from markdown.extensions.toc import TocExtension
+MD_EXTENSIONS = [
+    CodeHiliteExtension(css_class='highlight'),
+    TocExtension(permalink=True),
+    'markdown.extensions.extra',
+]
+```
+
+Note that this is different that Pelican's documentation which suggests using a single string which contains both the extension name and the config options (`MD_EXTENSIONS = ['codehilite(css_class=highlight)','extra']`). Using a string is very limiting (for example no spaces can exist and you can't pass in a True/False value---like with the TocExtension above). Besides the old string based method is being [deprecated](https://pythonhosted.org/Markdown/release-2.5.html#backwards-incompatible-changes).
