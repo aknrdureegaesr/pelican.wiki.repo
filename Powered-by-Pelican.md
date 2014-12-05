@@ -31,6 +31,18 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Feeds on separate sub-domain
     * Disqus comments
 
+## Buddycloud.com
+
+- Site: http://buddycloud.com/
+- Source: https://github.com/buddycloud/buddycloud.com
+- Theme: [Chunk](https://github.com/tbunnyman/pelican-chunk)
+- Features:
+    * Hidden pages for 404, 50x
+    * Custom Makefile
+    * Extensive multimarkdown
+    * Disqus comments
+    * Mint stats tracking
+
 ## BunnyMan.info
 
 - Site: http://bunnyman.info/
