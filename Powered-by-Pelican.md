@@ -37,11 +37,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/buddycloud/buddycloud.com
 - Theme: [Chunk](https://github.com/tbunnyman/pelican-chunk)
 - Features:
-    * Hidden pages for 404, 50x
-    * Custom Makefile
-    * Extensive multimarkdown
-    * Disqus comments
-    * Mint stats tracking
+    * Custom Markdown extensions
+    * Custom Jinja extension that adds a ToC for enabled pages
+    * Custom Pelican extension for adding a Slate API page
+    * Olark chats
 
 ## BunnyMan.info
 
