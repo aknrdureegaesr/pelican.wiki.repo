@@ -395,3 +395,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Google analytics
     * Pygments
     * Auto-generation from github service hooks
+
+## pythonworld.ru
+
+- Site: http://pythonworld.ru
+- Source: Not Published
+- Theme: Custom
+- Features:
+    * Responsive by google search
+    * RSS feeds
+    * Disqus
+    * Share on Twitter, Facebook, Google+, Vkontakte
+    * Pygments
