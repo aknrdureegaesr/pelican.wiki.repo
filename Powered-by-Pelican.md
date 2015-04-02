@@ -136,18 +136,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 * Features:
     * Disqus comments
 
-## kafran.net
-
-* Site: http://kafran.net/
-* Source: https://github.com/kafran/kafran.github.com
-* Theme: Custom minimalist based on [bootstrap](http://getbootstrap.com)
-* Features:
-   * Disqus comments
-   * Arquives by dates and categories (subjects)
-   * Breadcrumb navigation
-   * Next; Previous article
-
-
 ## databrewery.org
 
 - Site: http://databrewery.org
