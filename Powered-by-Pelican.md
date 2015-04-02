@@ -397,3 +397,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Search
     * Contact form with Formspree.io
     * Aweber integration with pages for sign-up, "make sure to click link in email", and "thanks for subscribing"
+
+## abr4xas.org
+
+- Site: http://blog.abr4xas.org/
+- Source: https://github.com/abr4xas/pblog
+- Theme: a modified version of [Casper](https://github.com/TryGhost/Casper)
+- Features:
+    * DISQUS
+    * OPEN GRAPH
+    * GOOGLE ANALYTICS
+    * Responsive Design
+
