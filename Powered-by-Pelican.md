@@ -312,14 +312,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Pygments
     * Auto-generation from github service hooks
 
-## julien.leicher.me
-
-- Site: http://julien.leicher.me
-- Theme: custom (will be available in the future)
-- Features:
-    * RSS feed
-    * Pygments
-
 ## sagar.se
 
 - Site: http://sagar.se
