@@ -409,3 +409,12 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * GOOGLE ANALYTICS
     * Responsive Design
 
+## ix5.org
+
+- Site: https://ix5.org/p/
+- Source: Not published
+- Theme: [pelican-blue-penguin](https://ix5.org/git/?p=pelican-blue-penguin.git;a=summary)
+- Features:
+    * post_stats plugin support
+    * Responsive Design
+    * Readable typefaces included
