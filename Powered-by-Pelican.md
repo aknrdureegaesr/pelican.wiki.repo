@@ -426,7 +426,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: Slightly edited version of [Just-Read](https://github.com/getpelican/pelican-themes/tree/master/Just-Read)
 - Features:
      * RSS feed
-     * 13+ years of archives inported from Wordpress
+     * 13+ years of archives imported from Wordpress
      * Disqus comments
 
 
