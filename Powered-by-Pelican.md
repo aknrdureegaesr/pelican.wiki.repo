@@ -418,3 +418,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * post_stats plugin support
     * Responsive Design
     * Readable typefaces included
+
+## ODonnellWeb
+
+- Site: http://odonnellweb.com/pelican
+- Source: Not published yet
+- Theme: Slightly edited version of [Just-Read](https://github.com/getpelican/pelican-themes/tree/master/Just-Read)
+- Features:
+     * RSS feed
+     * 13+ years of archives inported from Wordpress
+     * Disqus comments
+
+
