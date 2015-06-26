@@ -429,4 +429,14 @@ Add your site to the bottom of this list, highlighting any features that may ser
      * 13+ years of archives imported from Wordpress
      * Disqus comments
 
+## RoPython
+
+- Site: http://ropython.org
+- Source: https://github.com/RoPython/ropython-site
+- Theme: Custom
+- Features:
+  * Highly customized navigation
+  * Customized category/tag pages
+  * Plugins: assets, sitemap, headerid etc
+
 
