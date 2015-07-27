@@ -439,4 +439,19 @@ Add your site to the bottom of this list, highlighting any features that may ser
   * Customized category/tag pages
   * Plugins: assets, sitemap, headerid etc
 
+## Frogtoss Games
 
+- Site: http://www.frogtoss.com
+- Theme: Custom
+- Features:
+  * Graphical icons for news stories
+  * Company landing page with news-style design
+
+## Frogtoss Labs
+
+ - Site: http://www.frogtoss.com/labs
+ - Theme: Custom
+ - Features:
+  * Compression and offsite imagery in case Notch links us
+  * A completely separate implementation from frogtoss.com
+ 
