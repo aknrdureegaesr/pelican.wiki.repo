@@ -455,3 +455,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
   * Compression and offsite imagery in case Notch links us
   * A completely separate implementation from frogtoss.com
  
+## BinsBlog
+
+ - Site: http://www.binsblog.com
+ - Theme: Modified Simple theme, using Skeleton (Very Limited functionality at this point)
+ - Features:
+  * Responsive Design using Skeleton
+ 
