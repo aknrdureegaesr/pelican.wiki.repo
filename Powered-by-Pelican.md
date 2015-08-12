@@ -458,7 +458,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
 ## BinsBlog
 
  - Site: http://www.binsblog.com
- - Theme: Modified Simple theme, using Skeleton (Very Limited functionality at this point)
+ - Source: https://github.com/mdsingh007/simple-skeleton#simple-skeleton
+- Theme: Modified Simple theme, using Skeleton (Very Limited functionality at this point)
  - Features:
   * Responsive Design using Skeleton
  
