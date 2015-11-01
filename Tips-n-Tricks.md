@@ -158,7 +158,7 @@ pelican-mode has commands for generating post files, as well as rebuild and uplo
 As long as [#420](https://github.com/getpelican/pelican/issues/420) isn't resolved, you can get your pages (or articles, or whatever) in an arbitrary order of your choice with two little tricks:
  * In the for loop rendering out your menu, add a sort filter to sort by filename:
 ```python
-      {% for p in PAGES|sort(attribute='source_path') %}
+      {% for p in pages|sort(attribute='source_path') %}
           <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
       {% endfor %}
 ```
