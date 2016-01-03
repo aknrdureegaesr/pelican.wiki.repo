@@ -463,3 +463,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
  - Features:
   * Responsive Design using Skeleton
  
+## My Homepage
+
+- Site: http://simonh.me
+- Theme: octopress
+- Features: No extra features yet
