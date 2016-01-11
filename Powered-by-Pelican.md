@@ -468,3 +468,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://simonh.me
 - Theme: octopress
 - Features: No extra features yet
+
+## / Andreas | System administrator /
+
+- Site: https://blog.bogosity.se/
+- Source: https://git.lysator.liu.se/olsson/bogoblog
+- Theme: Modified [blueidea](https://github.com/blueicefield/pelican-blueidea)
