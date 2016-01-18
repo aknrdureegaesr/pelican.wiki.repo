@@ -474,3 +474,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: https://blog.bogosity.se/
 - Source: https://git.lysator.liu.se/olsson/bogoblog
 - Theme: Modified [blueidea](https://github.com/blueicefield/pelican-blueidea)
+
+## blog.henriquelopes.com.br
+
+- Site: http://blog.henriquelopes.com.br
+- Source: https://github.com/riquellopes/riquellopes.github.io
+- Theme: notmyidea
