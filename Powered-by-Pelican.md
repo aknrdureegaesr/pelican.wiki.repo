@@ -480,3 +480,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://blog.henriquelopes.com.br
 - Source: https://github.com/riquellopes/riquellopes.github.io
 - Theme: notmyidea
+
+## boddy.im
+- Site: http://boddy.im
+- Theme: [pure-single](https://github.com/PurePelicanTheme/pure-single)
