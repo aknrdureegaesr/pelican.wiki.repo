@@ -484,3 +484,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 ## boddy.im
 - Site: http://boddy.im
 - Theme: [pure-single](https://github.com/PurePelicanTheme/pure-single)
+
+## tiborsimon.io
+
+- Site: https://tiborsimon.io
+- Theme: [Escape Velocity](http://html5up.net) custom theme 
+- Site core: https://github.com/tiborsimon/tiborsimon.io-core
+- Site content: https://github.com/tiborsimon/tiborsimon.io-content
