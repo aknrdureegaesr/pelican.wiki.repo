@@ -491,3 +491,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: [Escape Velocity](http://html5up.net) custom theme 
 - Site core: https://github.com/tiborsimon/tiborsimon.io-core
 - Site content: https://github.com/tiborsimon/tiborsimon.io-content
+
+## semiversus.com
+- Site: https://www.semiversus.com
+- Theme: Bootstrap based custom theme
+- Source: https://github.com/semiversus/semiversus.github.io-source
+- Features:
+ * Commenting with [Isso](https://posativ.org/isso/)
