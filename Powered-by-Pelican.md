@@ -499,7 +499,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
  * Commenting with [Isso](https://posativ.org/isso/)
 
-## marquess.me
+## [Snappy title]
 
 - Site: http://marquess.me
 - Source: https://github.com/johnmarquess/marquess
