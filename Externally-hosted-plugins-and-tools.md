@@ -10,6 +10,7 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-Sitemap-Extended](https://github.com/dArignac/pelican-extended-sitemap)
 * [Pelican-Social](https://github.com/noirbizarre/pelican-social)
 * [Pelican-TitleCase](https://github.com/jrarseneau/pelican-titlecase)
+* [Standalone Categories](https://bitbucket.org/simblestudios/pelican-standalone-categories-plugin)
 
 The following are not plugins but are tools related to the Pelican ecosystem:
 
