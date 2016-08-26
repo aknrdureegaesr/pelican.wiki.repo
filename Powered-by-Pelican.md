@@ -503,3 +503,11 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Some old posts from Wordpress
     * Google Analystics
     * Pagination
+
+## Pelican Themes 
+
+- Site: http://www.pelicanthemes.com/
+- Theme: bootstrap 
+- Features:
+   * RSS feed
+   * Atom feed
