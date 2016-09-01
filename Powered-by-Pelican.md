@@ -511,3 +511,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
    * RSS feed
    * Atom feed
+## ndt.me.uk
+
+- http://ndt.me.uk
+- Theme: pelican-blue
+- Features: None yet, need to invest more time with Pelican :)
+
+
