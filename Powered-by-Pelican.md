@@ -491,9 +491,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/johnmarquess/marquess
 - Theme: a modified [foundation v6](http://foundation.zurb.com/) theme.
 
-## BabyBichu
+## Yum Things
 
-- Site: https://babybic.hu
+- Site: https://blog.snorl.ax
 - Theme: forked from Wordpress
 - Features:
     * Commenting with [Isso](https://posativ.org/isso/)
