@@ -3,7 +3,7 @@ Welcome to the Pelican wiki!
 ## Getting Started
 
 For information on the current release version, please refer to the [Pelican documentation](http://docs.getpelican.com/).
-For those using the bleeding-edge version, refer to the corresponding [in-development documentation](http://docs.getpelican.com/latest/).
+For those using the bleeding-edge version, refer to the corresponding [in-development documentation](http://docs.getpelican.com/en/latest/).
 
 Additional themes can be found in the [Pelican Themes](https://github.com/getpelican/pelican-themes) repository. Plugins and tools for Pelican be found in the [Pelican Plugins](https://github.com/getpelican/pelican-plugins) repository and on the [[Externally hosted Plugins and Tools]] page.
 
