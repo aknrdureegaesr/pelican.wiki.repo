@@ -522,5 +522,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - http://omiday.infrabit.net/
 - Theme: tuxlite_tbs by Justin Mayer (modified)
+    * Atom Feed
 - "Hosted on Github" ribbon ("Hosted" yes)
 - "Short URLs" using `:url:` and `:save_as:` metadata tags
