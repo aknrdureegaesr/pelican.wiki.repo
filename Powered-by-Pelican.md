@@ -518,7 +518,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: pelican-blue
 - Features: None yet, need to invest more time with Pelican :)
 
-## omiday.infrabit.net/
+## omiday.infrabit.net
 
 - http://omiday.infrabit.net/
 - Theme: tuxlite_tbs by Justin Mayer (modified)
