@@ -521,7 +521,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 ## omiday.infrabit.net
 
 - http://omiday.infrabit.net/
-- Theme: tuxlite_tbs by Justin Mayer (modified)
+- Theme:
+    * modified [tuxlite_tbs](https://github.com/getpelican/pelican-themes/tree/master/tuxlite_tbs)
     * Atom Feed
-- "Hosted on Github" ribbon ("Hosted" yes)
-- "Short URLs" using `:url:` and `:save_as:` metadata tags
+    * [Tipue Search](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search)
+- _"Hosted on Github"_ ribbon ("Hosted" yes)
+- _"Short URLs"_ using `:url:` and `:save_as:` metadata tags
