@@ -493,7 +493,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 ## Yum Things
 
-- Site: https://blog.snorl.ax
+- Site: https://snorl.ax
 - Theme: forked from Wordpress
 - Features:
     * Commenting with [Isso](https://posativ.org/isso/)
