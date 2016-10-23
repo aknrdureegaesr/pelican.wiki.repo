@@ -31,6 +31,7 @@ Once you are satisfied with your changes, run the tests and check coding standar
 
 Once the tests all pass and you are comfortable that your code complies with the suggested coding standards, add and commit your changes:
 
+    git diff --check
     git add changedfile1 changedfile2
     git commit
 
