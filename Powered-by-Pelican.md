@@ -496,8 +496,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: https://snorl.ax
 - Theme: forked from Wordpress
 - Features:
-    * Commenting with [Isso](https://posativ.org/isso/)
-    * Custom 404
+    * Commenting with [Isso](https://posativ.org/isso/) on my VPS
+    * Hosted by KeyCDN, thus no 404 pages
     * Colorbox
     * RSS feed
     * Some old posts from Wordpress
