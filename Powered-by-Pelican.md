@@ -9,7 +9,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: http://blog.notmyidea.org/
 - Source: https://github.com/ametaireau/notmyidea
-- Theme: a modified version of [notmyidea][]
+- Theme: a modified version of [notmyidea](https://github.com/ametaireau/notmyidea)
 - Features:
     * Original inspiration for creating Pelican :smile:
     * Custom Makefile
@@ -497,12 +497,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: forked from Wordpress
 - Features:
     * Commenting with [Isso](https://posativ.org/isso/) on my VPS
-    * Hosted by KeyCDN, thus no 404 pages
+    * Hosted by KeyCDN, thus the 404 page is not customizable
     * Colorbox
     * RSS feed
     * Some old posts from Wordpress
     * Google Analystics
     * Pagination
+    * Effective use of [pelican-minify](https://github.com/rdegges/pelican-minify)
 
 ## Pelican Themes 
 
