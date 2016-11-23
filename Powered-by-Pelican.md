@@ -499,10 +499,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Commenting with [Isso](https://posativ.org/isso/) on my VPS
     * Hosted by KeyCDN, thus the 404 page is not customizable
     * Colorbox
-    * RSS feed
-    * Some old posts from Wordpress
     * Google Analystics
-    * Pagination
     * Effective use of [pelican-minify](https://github.com/rdegges/pelican-minify)
 
 ## Pelican Themes 
