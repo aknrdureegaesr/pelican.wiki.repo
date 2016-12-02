@@ -525,3 +525,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * [Tipue Search](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search)
 - _"Hosted on Github"_ ribbon ("Hosted" yes)
 - _"Short URLs"_ using `:url:` and `:save_as:` metadata tags
+
+## Nairobi GNU/Linux Users Group
+
+- Website: https://nairobilug.or.ke/
+- Source: https://github.com/nairobilug/nairobilug.or.ke
+- Theme: [Alchemy ✨](https://github.com/nairobilug/pelican-alchemy)
