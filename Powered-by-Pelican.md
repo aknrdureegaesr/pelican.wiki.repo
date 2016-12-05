@@ -531,3 +531,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Website: https://nairobilug.or.ke/
 - Source: https://github.com/nairobilug/nairobilug.or.ke
 - Theme: [Alchemy ✨](https://github.com/nairobilug/pelican-alchemy)
+
+## Ducker website
+
+- website: http://www.freakspot.net/programas/ducker/
+- Source: https://notabug.org/Ducker/ducker-website
+- Theme: https://notabug.org/Ducker/ducker-website-theme (modified version of [Blue Penguin](https://github.com/jody-frankowski/blue-penguin))
+- Useful feature: The custom theme of the website displays Atom feeds for different languages.
