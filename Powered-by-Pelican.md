@@ -497,7 +497,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: forked from Wordpress
 - Features:
     * Commenting with [Isso](https://posativ.org/isso/) on my VPS
-    * Hosted by KeyCDN, thus the 404 page is not customizable
+    * Hosted on Gitlab  
     * Colorbox
     * Google Analystics
     * Effective use of [pelican-minify](https://github.com/rdegges/pelican-minify)
