@@ -496,8 +496,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: https://snorl.ax
 - Theme: forked from Wordpress
 - Features:
-    * Commenting with [Isso](https://posativ.org/isso/) on my VPS
-    * Hosted on Gitlab  
+    * Commenting with [Isso](https://posativ.org/isso/) accelerated by CloudFlare CDN
+    * Hosted on Gitlab and accelerated by CloudFlare CDN 
     * Colorbox
     * Google Analystics
     * Effective use of [pelican-minify](https://github.com/rdegges/pelican-minify)
