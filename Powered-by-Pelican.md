@@ -397,13 +397,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 ## ix5.org
 
-- Site: https://ix5.org/p/
+- Site: https://ix5.org/thoughts/
 - Source: Not published
-- Theme: [pelican-blue-penguin](https://ix5.org/git/?p=pelican-blue-penguin.git;a=summary)
+- Theme: [pelican-blue-penguin](https://git.ix5.org/felix/pelican-blue-penguin/)
 - Features:
     * post_stats plugin support
     * Responsive Design
-    * Readable typefaces included
+    * Compatible with Pelican v3.7+
 
 ## ODonnellWeb
 
