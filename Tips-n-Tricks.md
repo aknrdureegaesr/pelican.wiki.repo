@@ -168,9 +168,9 @@ This will get the pages in the order of your choice without messing up your slug
 ## Custom Markdown Extensions
 
 The [Python-Markdown](https://pythonhosted.org/Markdown/) library (which Pelican uses to parse markdown documents) includes support for a number of [built-in](https://pythonhosted.org/Markdown/extensions/index.html#officially-supported-extensions) and [third party](https://github.com/waylan/Python-Markdown/wiki/Third-Party-Extensions) extensions and many of those extensions offer support for configuration options to alter their behavior.
-While Pelican does not offer a setting that would get passed into Markdown's [extension_configs](https://pythonhosted.org/Markdown/reference.html#extension_configs) keyword, Markdown does allow instances of extension classes to be passing in rather than the string names of the extensions. And, as Pelican's setting file is just Python, you can <del>import your extensions, create an instance with the config options you want, and pass that in using Pelican's [MD_EXTENSIONS](http://pelican.readthedocs.org/en/3.5.0/settings.html#basic-settings) setting.</del>
+<del>While Pelican does not offer a setting that would get passed into Markdown's [extension_configs](https://pythonhosted.org/Markdown/reference.html#extension_configs) keyword, Markdown does allow instances of extension classes to be passing in rather than the string names of the extensions. And, as Pelican's setting file is just Python, you can import your extensions, create an instance with the config options you want, and pass that in using Pelican's [MD_EXTENSIONS](http://pelican.readthedocs.org/en/3.5.0/settings.html#basic-settings) setting.</del>
 
-**`MD_EXTENSIONS` is deprecated since [3.7](https://blog.getpelican.com/pelican-3.7-released.html)**, use `MARKDOWN` instead (c.f. [`settings`](http://docs.getpelican.com/en/3.7.0/settings.html))
+**`MD_EXTENSIONS` is deprecated since [3.7](https://blog.getpelican.com/pelican-3.7-released.html)**, use `MARKDOWN` instead (c.f. [`settings`](http://docs.getpelican.com/en/3.7.0/settings.html)). You can now pass `extension_configs` directly.
 
 Default options are:
 
