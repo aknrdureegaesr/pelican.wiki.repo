@@ -543,3 +543,11 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Website: https://www.fullstackpython.com/
 - Source: https://github.com/mattmakai/fullstackpython.com
+
+## Khaled Monsoor :: blog
+
+- website: https://blog.kmonsoor.com/
+- Source: https://github.com/kmonsoor/blog.kmonsoor.com/
+- Theme: Optimized version of [Plumage](https://github.com/kdeldycke/plumage) by [Kevin Deldycke](kevin.deldycke.com)
+- Useful feature: There are some SEO-related optimizations in the custom-version
+
