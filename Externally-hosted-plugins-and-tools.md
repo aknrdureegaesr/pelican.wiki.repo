@@ -2,7 +2,6 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 
 * [Pelican-Dynamic](https://github.com/wrobstory/pelican_dynamic)
 * [Pelican-FlickrTag](https://github.com/streeter/pelican-flickrtag)
-* [Pelican-Fly](https://github.com/bmcorser/pelicanfly)
 * [Pelican-Gallery](https://github.com/hunt3r/pelican-gallery)
 * [Pelican-Gist](https://github.com/streeter/pelican-gist)
 * [Pelican-Microdata](https://github.com/noirbizarre/pelican-microdata)
