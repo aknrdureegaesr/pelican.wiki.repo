@@ -399,7 +399,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: https://ix5.org/thoughts/
 - Source: Not published
-- Theme: [pelican-blue-penguin](https://git.ix5.org/felix/pelican-blue-penguin/)
+- Theme: [sleek-tern](https://git.ix5.org/felix/sleek-tern/)
 - Features:
     * post_stats plugin support
     * Responsive Design
