@@ -528,7 +528,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 ## Ducker website
 
-- website: http://www.freakspot.net/programas/ducker/
+- Website: http://www.freakspot.net/programas/ducker/
 - Source: https://notabug.org/Ducker/ducker-website
 - Theme: https://notabug.org/Ducker/ducker-website-theme (modified version of [Blue Penguin](https://github.com/jody-frankowski/blue-penguin))
 - Useful feature: The custom theme of the website displays Atom feeds for different languages.
@@ -545,3 +545,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: Optimized version of [Plumage](https://github.com/kdeldycke/plumage) by [Kevin Deldycke](kevin.deldycke.com)
 - Useful feature: There are some SEO-related optimizations in the custom-version
 
+## Freak Spot
+
+- Site: http://www.freakspot.net/
+- Source: https://notabug.org/Freak-Spot/Freak-Spot
+- Theme: Custom theme inspired by a Wordpress theme called Twenty Fifteen
+- Useful feature: It uses the Hashover comment system
