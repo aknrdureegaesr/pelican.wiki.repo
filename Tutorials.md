@@ -11,3 +11,5 @@ If you have published a Pelican-related tutorial on your own site, please create
 - [Remotely update Pelican via Dropbox](http://www.sparsebundle.net/posts/remotely-update-pelican-via-dropbox/)
 
 - [Add a custom Jinja filter for use in your templates](http://linkpeek.com/blog/how-to-add-a-custom-jinja-filter-to-pelican.html).
+
+- [Migración de Wordpress a Pelican](http://www.freakspot.net/migraci%C3%B3n-de-wordpress-a-pelican/).
