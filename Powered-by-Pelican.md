@@ -395,16 +395,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * GOOGLE ANALYTICS
     * Responsive Design
 
-## ix5.org
-
-- Site: https://ix5.org/thoughts/
-- Source: Not published
-- Theme: [sleek-tern](https://git.ix5.org/felix/sleek-tern/)
-- Features:
-    * post_stats plugin support
-    * Responsive Design
-    * Compatible with Pelican v3.7+
-
 ## ODonnellWeb
 
 - Site: http://odonnellweb.com/pelican
