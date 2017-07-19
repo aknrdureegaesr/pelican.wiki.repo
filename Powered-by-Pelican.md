@@ -541,3 +541,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://notabug.org/Freak-Spot/Freak-Spot
 - Theme: Custom theme inspired by a Wordpress theme called Twenty Fifteen
 - Useful feature: It uses the Hashover comment system
+
+## CNT-AIT Almería
+
+- Site: http://www.cntaitalmeria.es/
+- Source: https://gitlab.com/CNT-Almeria/web
+- Theme: Forked from [Pelican Clean Blog](https://github.com/gilsondev/pelican-clean-blog)
