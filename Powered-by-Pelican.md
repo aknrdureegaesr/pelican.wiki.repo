@@ -545,5 +545,5 @@ Add your site to the bottom of this list, highlighting any features that may ser
 ## CNT-AIT Almería
 
 - Site: http://www.cntaitalmeria.es/
-- Source: https://gitlab.com/CNT-Almeria/web
+- Source: https://0xacab.org/CNT-Almeria/web
 - Theme: Forked from [Pelican Clean Blog](https://github.com/gilsondev/pelican-clean-blog)
