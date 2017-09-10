@@ -537,7 +537,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 ## Freak Spot
 
-- Site: http://www.freakspot.net/
+- Site: https://www.freakspot.net/
 - Source: https://notabug.org/Freak-Spot/Freak-Spot
 - Theme: Custom theme inspired by a Wordpress theme called Twenty Fifteen
 - Useful feature: It uses the Hashover comment system
