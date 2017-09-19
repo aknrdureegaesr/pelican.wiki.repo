@@ -180,3 +180,16 @@ As of Pelican [3.7](https://blog.getpelican.com/pelican-3.7-released.html), to c
     }
 
 In versions before 3.7, you can edit the `MD_EXTENSIONS` setting (cf. [`settings`](http://pelican.readthedocs.org/en/3.5.0/settings.html#basic-settings)). These earlier versions do not offer a setting that would get passed into Markdown's [extension_configs](https://pythonhosted.org/Markdown/reference.html#extension_configs) keyword, but Markdown does allow instances of extension classes to be passing in rather than the string names of the extensions. Hence, in these earlier versions, as Pelican's setting file is just Python, you can import your extensions, create an instance with the config options you want, and pass that in using Pelican's setting.
+
+## Validate the HTML
+
+You can use [html5validator](https://github.com/svenkreiss/html5validator) to validate the HTML output. To check if your Pelican website has valid HTML, you just need to generate the website and execute `html5validator --root output` (assuming your output directory is `output`. You could also add the option validate to your Makefile.
+
+```
+help:
+	[...]
+	@echo '   make validate                       validate the web site via html5validator'
+
+validate: publish
+	html5validator --root $(OUTPUTDIR)
+```
