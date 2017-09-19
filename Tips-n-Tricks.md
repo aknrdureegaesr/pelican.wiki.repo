@@ -183,7 +183,7 @@ In versions before 3.7, you can edit the `MD_EXTENSIONS` setting (cf. [`settings
 
 ## Validate the HTML
 
-You can use [html5validator](https://github.com/svenkreiss/html5validator) to validate the HTML output. To check if your Pelican website has valid HTML, you just need to generate the website and execute `html5validator --root output` (assuming your output directory is `output`. You could also add the option validate to your Makefile.
+You can use [html5validator](https://github.com/svenkreiss/html5validator) to validate the HTML output. To check if your Pelican website has valid HTML, you just need to generate the website and execute `html5validator --root output` (assuming your output directory is `output`). You could also add the option validate to your Makefile.
 
 ```
 help:
