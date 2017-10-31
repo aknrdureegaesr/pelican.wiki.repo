@@ -10,6 +10,7 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-Social](https://github.com/noirbizarre/pelican-social)
 * [Pelican-TitleCase](https://github.com/jrarseneau/pelican-titlecase)
 * [Standalone Categories](https://bitbucket.org/simblestudios/pelican-standalone-categories-plugin)
+* [m.css](http://mcss.mosra.cz/): theme and plugins for simpler authoring of content-oriented websites
 
 The following are not plugins but are tools related to the Pelican ecosystem:
 
