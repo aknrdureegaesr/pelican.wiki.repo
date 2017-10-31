@@ -547,3 +547,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: http://www.cntaitalmeria.es/
 - Source: https://0xacab.org/CNT-Almeria/web
 - Theme: Forked from [Pelican Clean Blog](https://github.com/gilsondev/pelican-clean-blog)
+
+## Sport Pistol
+
+- Site: http://www.sportpistol.com/
+- Source: https://github.com/ramonsuarez/sportpistol/
+- Theme: notmyidea
+- Useful feature: publish on github pages with `make github`
