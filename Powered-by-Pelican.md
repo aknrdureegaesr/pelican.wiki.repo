@@ -554,3 +554,12 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/ramonsuarez/sportpistol/
 - Theme: notmyidea
 - Useful feature: publish on github pages with `make github`
+
+## m.css: a no-nonsense, no-JavaScript CSS framework and Pelican theme for content-oriented websites
+
+- Site: http://mcss.mosra.cz/
+- Source: https://github.com/mosra/m.css
+- Features:
+  - Responsive, mobile-friendly HTML5 theme
+  - Developed with performance and simplicity in mind
+  - Plugins extending Pelican for better HTML output, code blocks, math and photography presentation
