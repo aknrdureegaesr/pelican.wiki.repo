@@ -122,7 +122,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: a lightly modified version of [notmyidea]
 - Conversion described at http://nwcpp.org/2013-website-refresh.html
 
-##mozillazg.com
+## mozillazg.com
 
 * Site: <http://mozillazg.com>
 * Source: <https://github.com/mozillazg/mozillazg.com>
