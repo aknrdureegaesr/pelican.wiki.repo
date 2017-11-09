@@ -563,3 +563,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
   - Responsive, mobile-friendly HTML5 theme
   - Developed with performance and simplicity in mind
   - Plugins extending Pelican for better HTML output, code blocks, math and photography presentation
+
+## Vincent Canfield's Blog
+
+- Site: https://vc.gg/blog/
