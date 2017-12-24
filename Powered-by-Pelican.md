@@ -399,7 +399,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 
 - Site: http://odonnellweb.com/pelican
 - Source: Not published yet
-- Theme: Slightly edited version of [Flex](https://github.com/getpelican/pelican-themes/tree/master/Flex)
+- Theme: Slightly edited version of [Flex](https://github.com/alexandrevicenzi/Flex)
 - Features:
      * RSS feed
      * 13+ years of archives imported from Wordpress
