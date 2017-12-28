@@ -308,12 +308,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Dropdown CSS menu in navbar
     * https friendly. No mixed content warnings
 
-
-## bekirkarul.com
-
-- Site: http://bekirkarul.com
-- Theme: a modified version of [neat]
-
 ## omphalosskeptic.github.io
 
 - Site: http://omphalosskeptic.github.io
