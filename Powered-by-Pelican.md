@@ -536,12 +536,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: Custom theme inspired by a Wordpress theme called Twenty Fifteen
 - Useful feature: It uses the Hashover comment system
 
-## CNT-AIT Almería
-
-- Site: http://www.cntaitalmeria.es/
-- Source: https://0xacab.org/CNT-Almeria/web
-- Theme: Forked from [Pelican Clean Blog](https://github.com/gilsondev/pelican-clean-blog)
-
 ## Sport Pistol
 
 - Site: http://www.sportpistol.com/
