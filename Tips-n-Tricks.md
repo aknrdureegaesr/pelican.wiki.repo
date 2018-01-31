@@ -193,3 +193,33 @@ help:
 validate: publish
 	html5validator --root $(OUTPUTDIR)
 ```
+
+## Shell Completion Files
+
+### Bash
+
+```__pelican()
+{
+    local cur prev opts fileopts diropts
+    COMPREPLY=()
+    cur="${COMP_WORDS[COMP_CWORD]}"
+    prev="${COMP_WORDS[COMP_CWORD-1]}"
+    opts="{{flags}}"
+    diropts="-o|--output|-t|--theme|-w|--write-selected"
+    fileopts="-s|--settings"
+
+    if [[ ${prev} =~ ${fileopts} ]]; then
+        COMPREPLY=( $(compgen -f -- ${cur}) )
+        return 0
+    elif [[ ${prev} =~ ${diropts} ]]; then
+        COMPREPLY=( $(compgen -d -- ${cur}) )
+        return 0
+    fi
+
+    if [[ ${cur} == * ]] ; then
+        COMPREPLY=( $(compgen -W "${opts}" -- ${cur}) )
+        return 0
+    fi
+}
+
+complete -F __pelican pelican```
