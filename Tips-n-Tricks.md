@@ -205,7 +205,7 @@ __pelican()
     COMPREPLY=()
     cur="${COMP_WORDS[COMP_CWORD]}"
     prev="${COMP_WORDS[COMP_CWORD-1]}"
-    opts="{{flags}}"
+    opts="--help --version --cache_path --ignore_cache --relative_paths --delete_outputdir --path --autoreload --output --fatal --theme --verbosity --selected_paths --settings"
     diropts="-o|--output|-t|--theme|-w|--write-selected"
     fileopts="-s|--settings"
 
