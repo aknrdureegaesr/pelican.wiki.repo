@@ -198,7 +198,8 @@ validate: publish
 
 ### Bash
 
-```__pelican()
+```
+__pelican()
 {
     local cur prev opts fileopts diropts
     COMPREPLY=()
@@ -222,4 +223,5 @@ validate: publish
     fi
 }
 
-complete -F __pelican pelican```
+complete -F __pelican pelican
+```
