@@ -563,3 +563,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
   - Materialize CSS
   - Search page in Reatjs based on tipue_search plugin
   - Pages demonstrating rendering Angular, ReactJS and reveal.js pages in Pelican also
+
+## FreshLEX, LLC
+ - Site:  https://www.freshlex.com/
+ - Source code:  https://github.com/hatdropper1977/freshlex.com
+ - Features:
+   - Integrates Disqus comments
+   - Uses Cloudfront, S3 and AWS Cert manager for HTTPS
