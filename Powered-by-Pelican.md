@@ -570,3 +570,16 @@ Add your site to the bottom of this list, highlighting any features that may ser
  - Features:
    - Integrates Disqus comments
    - Uses Cloudfront, S3 and AWS Cert manager for HTTPS
+
+## Way of Numbers
+ - Site:  https://wayofnumbers.github.io/
+ - Source code:  https://github.com/wayofnumbers/wayofnumbers.github.io
+ - Features:
+   - Theme: Optimized version of [Elegant](http://oncrashreboot.com/elegant-best-pelican-theme-features)
+   - Integrates Disqus comments
+   - Integrated Google Analytics
+   - Feature a estimated article read time indicator
+   - Use of Google WebFonts
+   - SEO optimizations (sitemap, Canonical link, Google Search Console Integration)
+   - On-site Search
+   - Table of contents for articles.
