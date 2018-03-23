@@ -5,6 +5,7 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-FlickrTag](https://github.com/streeter/pelican-flickrtag)
 * [Pelican-Gallery](https://github.com/hunt3r/pelican-gallery)
 * [Pelican-Gist](https://github.com/streeter/pelican-gist)
+* [Pelican-JSMath](https://github.com/svenkreiss/pelican-jsmath)
 * [Pelican-Microdata](https://github.com/noirbizarre/pelican-microdata)
 * [Pelican-Minify](https://github.com/rdegges/pelican-minify)
 * [Pelican-Sitemap-Extended](https://github.com/dArignac/pelican-extended-sitemap)
