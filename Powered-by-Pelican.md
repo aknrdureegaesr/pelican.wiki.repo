@@ -583,3 +583,11 @@ Add your site to the bottom of this list, highlighting any features that may ser
    - SEO optimizations (sitemap, Canonical link, Google Search Console Integration)
    - On-site Search
    - Table of contents for articles.
+
+## Matthew Kudija blog
+ - Site:  http://matthewkudija.com/blog
+ - Source code:  https://github.com/mkudija/blog
+ - Features:
+   - Integrates Disqus comments
+   - Integrated Google Analytics
+   - Integrated Mailchimp subscribe
