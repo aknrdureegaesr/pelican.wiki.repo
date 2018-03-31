@@ -591,3 +591,9 @@ Add your site to the bottom of this list, highlighting any features that may ser
    - Integrates Disqus comments
    - Integrated Google Analytics
    - Integrated Mailchimp subscribe
+
+## Canux CHENG blog
+ - Site: http://canuxcheng.com/
+ - Source code: https://github.com/crazy-canux/blog_pelican
+ - Features:
+   - Theme: https://github.com/crazy-canux/pelican-theme-canux
