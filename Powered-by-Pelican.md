@@ -597,3 +597,17 @@ Add your site to the bottom of this list, highlighting any features that may ser
  - Source code: https://github.com/crazy-canux/blog_pelican
  - Features:
    - Theme: https://github.com/crazy-canux/pelican-theme-canux
+
+## Matthew Graybosch's website
+ - Site: https://www.matthewgraybosch.com
+ - Source code: https://github.com/matthewgraybosch/pelican.matthewgraybosch.com
+ - Features:
+    - Custom theme inspired by [this website](http://motherfuckingwebsite.com) and [this other website](http://bettermotherfuckingwebsite.com).
+    - Custom theme code available at https://github.com/matthewgraybosch/oedipus-pelican-starter
+    - Built-in SEO including Open Graph tagging.
+    - Sitemap
+    - Basic responsive images
+    - DNS Prefetching for YouTube embeds
+    - Basic accessibility including "skip to main" and "back to top" links.
+    - .htaccess file
+    - humans.txt file
