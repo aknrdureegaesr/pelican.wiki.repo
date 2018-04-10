@@ -611,3 +611,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
     - Basic accessibility including "skip to main" and "back to top" links.
     - .htaccess file
     - humans.txt file
+
+## Free Software Directory
+
+- Site: http://freeapps.ml
+- Theme: Modified version of pelican-alchemy
