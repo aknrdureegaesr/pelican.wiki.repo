@@ -19,3 +19,5 @@ If you have published a Pelican-related tutorial on your own site, please create
 - [Making a Static Blog with Pelican](http://nafiulis.me/making-a-static-blog-with-pelican.html) is a full length post on how to start with pelican, and end up with a full static blogging site, with deployment to github as well.
 
 - [A Pelican Blog with Search & Comments, Deployed on Netlify](https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
+
+- [Deploying a Pelican Blog with Gitlab-CI](http://blog.squareys.de/new-website/#pelican-m-css-gitlab-ci)
