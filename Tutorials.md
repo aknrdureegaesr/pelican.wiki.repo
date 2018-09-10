@@ -21,3 +21,5 @@ If you have published a Pelican-related tutorial on your own site, please create
 - [A Pelican Blog with Search & Comments, Deployed on Netlify](https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
 
 - [Deploying a Pelican Blog with Gitlab-CI](http://blog.squareys.de/new-website/#pelican-m-css-gitlab-ci)
+
+- [eval-pelican](https://greeder59-eval-pelican.netlify.com/) An oddly named tutorial site that resulted from me typing up my notes as I evaluated the Pelican static site builder. Talks about using Git and Github, virtual Python environments, Markdown, themes, and deployment to Netlify.com. Backed up by a full public Github repository.
