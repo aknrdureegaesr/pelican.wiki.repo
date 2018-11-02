@@ -167,8 +167,8 @@ This will get the pages in the order of your choice without messing up your slug
 
 ## Custom Markdown Extensions
 
-The [Python-Markdown](https://pythonhosted.org/Markdown/) library (which Pelican uses to parse markdown documents) includes support for a number of [built-in](https://pythonhosted.org/Markdown/extensions/index.html#officially-supported-extensions) and [third party](https://github.com/waylan/Python-Markdown/wiki/Third-Party-Extensions) extensions and many of those extensions offer support for configuration options to alter their behavior.
-As of Pelican [3.7](https://blog.getpelican.com/pelican-3.7-released.html), to choose the available Markdown extensions and configure the extensions that you are using, you can edit the `MARKDOWN` setting (cf. [`settings`](http://docs.getpelican.com/en/3.7.0/settings.html)). Default options are:
+The [Python-Markdown](https://python-markdown.github.io/) library (which Pelican uses to parse markdown documents) includes support for a number of [built-in](https://python-markdown.github.io/extensions/#officially-supported-extensions) and [third party](https://github.com/waylan/Python-Markdown/wiki/Third-Party-Extensions) extensions and many of those extensions offer support for configuration options to alter their behavior.
+As of Pelican [3.7](https://blog.getpelican.com/pelican-3.7-released.html), to choose the available Markdown extensions and configure the extensions that you are using, you can edit the `MARKDOWN` setting (cf. [`settings`](http://docs.getpelican.com/en/stable/settings.html)). Default options are:
 
     MARKDOWN = {
         'extension_configs': {
