@@ -5,7 +5,7 @@
 If you used the `pelican-quickstart` command to create a Makefile and want certain files copied to your web root — such as `favicon.ico`, `robots.txt`, or other files — create a folder called `extra` next to your Makefile and edit your Makefile to look like this:
 
 ```
- $(OUTPUTDIR)/%.html:
+html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	if test -d $(BASEDIR)/extra; then cp $(BASEDIR)/extra/* $(OUTPUTDIR)/; fi
 ```
