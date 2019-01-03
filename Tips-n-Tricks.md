@@ -149,9 +149,9 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 
 ## pelican-mode for Emacs
 
-https://github.com/joewreschnig/pelican-mode
+[Pelican Mode](https://git.korewanetadesu.com/pelican-mode.git)
 
-pelican-mode has commands for generating post files, as well as rebuild and uploading sites from emacs.
+pelican-mode has commands for generating post files, as well as rebuild and uploading sites from emacs and etc.
 
 ## Arbitrary Page Ordering
 
