@@ -42,29 +42,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Custom Pelican extension for adding a Slate API page
     * Olark chats
 
-## BunnyMan.info
-
-- Site: http://bunnyman.info/
-- Source: https://github.com/tbunnyman/BunnyMan.info
-- Theme: [Chunk](https://github.com/tbunnyman/pelican-chunk)
-- Features:
-    * Hidden pages for 404, 50x
-    * Custom Makefile
-    * Extensive multimarkdown
-    * Disqus comments
-    * Mint stats tracking
-
-## Vegas Furry Arts
-
-- Site: http://www.vegasfur.com/
-- Source: https://github.com/tbunnyman/Vegas-Furry-Arts
-- Theme: [notmyidea][]
-- Features:
-    * Hidden pages for 404
-    * Pelican 3.0 development/production makefile
-    * Quick theme development script from 3.0
-    * Disqus comments
-
 ## bottlepy-dev
 
 - Site: http://blog.bottlepy.org/
@@ -77,26 +54,10 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/walkermatt/longwayaround.org.uk
 - Theme: https://github.com/walkermatt/longwayaround.org.uk_theme
 
-## williamting.com
-
-- Site: http://williamting.com/
-- Source: https://github.com/wting/williamting.com
-- Theme: [svbtle](https://github.com/wting/pelican-svbtle)
-- Features:
-    * code syntax highlighting
-    * Disqus comments
-    * Google analytics
-    * custom link list
-
 ## dirkjan.ochtman.nl
 
 - Site: http://dirkjan.ochtman.nl/
 - Theme: custom, inspired by Octopress
-
-## azizmb.in
-
-- Site: http://azizmb.in/
-- Theme: https://github.com/azizmb/pelican-bootstrap-responsive-theme
 
 ## i.com.pk
 
@@ -186,15 +147,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Disqus comments
     * Pygments
 
-## varunksaini.com
-
-- Site: http://varunksaini.com/
-- Source: https://github.com/varun06/varunsainiblog
-- Theme: svbtle (Modified)
-- Features:
-    * code syntax highlighting
-    * Disqus comments
-
 ## unikorn.me
 
 - Site: http://blog.unikorn.me
@@ -251,27 +203,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Theme: Custom
 - Features:
     * Minimal and responsive
-
-## johz.me
-
-- Site: http://johz.me/
-- Source: Will be up later
-- Theme: https://github.com/MrJohz/pillbox-theme + extras
-- Features:
-    * Minimal, flat design
-    * Client-side persistent theme switcher
-    * Random quotes
-    * Piwik, disqus support
-
-## pythonrs.org
-
-- Site: http://pythonrs.org
-- Source: http://github.com/berlotto
-- Theme: https://github.com/berlotto/bootstrap-simple-plus
-- Features:
-    * Bootstraped
-    * Disqus
-    * Statcounter
 
 ## letchap.github.io
 
@@ -424,20 +355,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
  - Features:
   * Compression and offsite imagery in case Notch links us
   * A completely separate implementation from frogtoss.com
- 
-## BinsBlog
-
- - Site: http://www.binsblog.com
- - Source: https://github.com/mdsingh007/simple-skeleton#simple-skeleton
-- Theme: Modified Simple theme, using Skeleton (Very Limited functionality at this point)
- - Features:
-  * Responsive Design using Skeleton
- 
-## / Andreas | System administrator /
-
-- Site: https://blog.bogosity.se/
-- Source: https://git.lysator.liu.se/olsson/bogoblog
-- Theme: Modified [blueidea](https://github.com/blueicefield/pelican-blueidea)
 
 ## blog.henriquelopes.com.br
 
@@ -535,13 +452,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://notabug.org/Freak-Spot/Freak-Spot
 - Theme: Custom theme inspired by a Wordpress theme called Twenty Fifteen
 - Useful feature: It uses the Hashover comment system
-
-## Sport Pistol
-
-- Site: http://www.sportpistol.com/
-- Source: https://github.com/ramonsuarez/sportpistol/
-- Theme: notmyidea
-- Useful feature: publish on github pages with `make github`
 
 ## m.css: a no-nonsense, no-JavaScript CSS framework and Pelican theme for content-oriented websites
 
