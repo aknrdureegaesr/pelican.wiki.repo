@@ -1,0 +1,5 @@
+# FeedBurner Configuration
+
+If you want to use FeedBurner for your feed, you will likely need to decide upon a unique identifier. For example, if your site were called “Thyme” and hosted on the www.example.com domain, you might use “thymefeeds” as your unique identifier, which we’ll use throughout this section for illustrative purposes. In your Pelican settings, set the FEED_ATOM attribute to thymefeeds/main.xml to create an Atom feed with an original address of http://www.example.com/thymefeeds/main.xml. Set the FEED_DOMAIN attribute to http://feeds.feedburner.com, or http://feeds.example.com if you are using a CNAME on your own domain (i.e., FeedBurner’s “MyBrand” feature).
+
+There are two fields to configure in the FeedBurner interface: “Original Feed” and “Feed Address”. In this example, the “Original Feed” would be http://www.example.com/thymefeeds/main.xml and the “Feed Address” suffix would be thymefeeds/main.xml.
