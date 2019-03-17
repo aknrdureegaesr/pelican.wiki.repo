@@ -555,4 +555,6 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Page load time indicator in the footer.
     * Random avatar images in the page header (randomized from a folder of images, during the build process).
 
-
+## Arnaud R blog
+ - Site: http://arnaudr.io
+ - Source code: https://gitlab.com/elboulangero/arnaudr.io
