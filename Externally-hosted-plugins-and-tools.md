@@ -11,6 +11,7 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Pelican-Sitemap-Extended](https://github.com/dArignac/pelican-extended-sitemap)
 * [Pelican-Social](https://github.com/noirbizarre/pelican-social)
 * [Pelican-TitleCase](https://github.com/jrarseneau/pelican-titlecase)
+* [Pelican-Zopfli](https://github.com/VorpalBlade/pelican_zopfli)
 * [Standalone Categories](https://bitbucket.org/simblestudios/pelican-standalone-categories-plugin)
 * [m.css](http://mcss.mosra.cz/): theme and plugins for simpler authoring of content-oriented websites
 
