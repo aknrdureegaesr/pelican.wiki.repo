@@ -386,16 +386,15 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Source: https://github.com/johnmarquess/marquess
 - Theme: a modified [foundation v6](http://foundation.zurb.com/) theme.
 
-## Sim's Server
+## Simputer
 
 - Site: https://snorl.ax
 - Theme: forked from Wordpress
 - Features:
-    * Commenting with [Isso](https://posativ.org/isso/) accelerated by CloudFlare CDN
-    * Hosted on Github and accelerated by CloudFlare CDN 
-    * Colorbox
-    * Google Analystics
+    * Commenting with [Isso](https://posativ.org/isso/)
+    * Hosted on Firebase Hosting
     * Tipue Search
+    * Series
 
 ## Pelican Themes 
 
