@@ -395,6 +395,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Hosted on Firebase Hosting
     * Tipue Search
     * Series
+    * [Svg version](https://github.com/encharm/Font-Awesome-SVG-PNG/tree/master/black/svg) of font awesome
+    * Second-accurate clock and a Pokemon Shuffle image changing every minute on the [homepage](https://snorl.ax).
 
 ## Pelican Themes 
 
