@@ -560,3 +560,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
  - Source code: https://gitlab.com/elboulangero/arnaudr.io
  - Theme: Modified version of [Pelican Hyde](https://github.com/elboulangero/pelican-hyde)
     * Vertical sidebar
+
+## auxi.me
+
+- Site: https://auxi.me/
+- Source: not released
+- Theme: custom theme adapted from bootstrap template
+- Features:
+    * Continous deployment from Github through [Netlify](https://www.netlify.com/)
+    * Netlify form handling
+    * Integrated google analytics
