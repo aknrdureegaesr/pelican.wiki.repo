@@ -15,8 +15,9 @@ In addition to the plugins found in the official [Pelican Plugins](https://githu
 * [Standalone Categories](https://bitbucket.org/simblestudios/pelican-standalone-categories-plugin)
 * [m.css](http://mcss.mosra.cz/): theme and plugins for simpler authoring of content-oriented websites
 
-The following are not plugins but are tools related to the Pelican ecosystem:
+The following are not general-use plugins but are tools and kits related to the Pelican ecosystem:
 
+* [Pelican IndieWeb Kit](https://github.com/drivet/pelican-indieweb-kit)
 * [SublimePelican](https://github.com/jsliang/sublime-pelican)
 * [Vim UltiSnips snippet](https://github.com/talha131/dotfiles/blob/master/vim/vim/my_UltiSnips/markdown.snippets)
 * [pelican-mode for Emacs](https://github.com/joewreschnig/pelican-mode)
