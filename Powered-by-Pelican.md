@@ -475,7 +475,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
   - Pages demonstrating rendering Angular, ReactJS and reveal.js pages in Pelican also
 
 ## John Sobanski
- - Site:  https:/john.soban.ski/
+ - Site:  [https:/john.soban.ski/](https:/john.soban.ski/)
  - Source code:  https://github.com/hatdropper1977/john.soban.ski
  - Features:
    - Integrates Disqus comments
