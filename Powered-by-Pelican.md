@@ -570,3 +570,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Continous deployment from Github through [Netlify](https://www.netlify.com/)
     * Netlify form handling
     * Integrated google analytics
+
+## We The Cooks Blog
+
+- Site: https://blog.wethecooks.com
+- Source: not released
+- Theme: Custom Theme
+- Features:
+    * Mailchimp Intrgrated
+    * Pagespeed 90+
+    * Integrated google analytics
