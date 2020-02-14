@@ -1,4 +1,4 @@
-In addition to the plugins found in the official [Pelican Plugins](https://github.com/getpelican/pelican-plugins) repository, following is a list of known externally-hosted plugins:
+In addition to the plugins found in the official [Pelican Plugins](https://github.com/getpelican/pelican-plugins) repository and [pelican-plugins](https://github.com/pelican-plugins/) GitHub org, following is a list of known externally-hosted plugins:
 
 * [Pelican-Alias](https://github.com/Nitron/pelican-alias)
 * [Pelican-Dynamic](https://github.com/wrobstory/pelican_dynamic)
