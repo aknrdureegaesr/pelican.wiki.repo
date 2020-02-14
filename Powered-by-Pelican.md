@@ -580,3 +580,12 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Mailchimp Intrgrated
     * Pagespeed 90+
     * Integrated google analytics
+
+## Ludochaordic
+
+- Site: https://chezsoi.org/lucas/blog/
+- Source: https://github.com/Lucas-C/ludochaordic
+- Theme: a fork of pelican-mg that supports isso comments, images lazy loading, pingback/webmention URLs and list of current book readings
+- Features:
+    * Uses `livereload` when editing articles to automatically reload browser tab upon file modification
+    * in `publish` mode, a couple of plugins allow for [autopublishing articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/tree/master/shaarli_poster), and [sending pingbacks & webmentions](https://github.com/pelican-plugins/linkbacks/)
