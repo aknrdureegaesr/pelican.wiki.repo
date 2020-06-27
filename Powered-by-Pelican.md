@@ -589,3 +589,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Features:
     * Uses `livereload` when editing articles to automatically reload browser tab upon file modification
     * in `publish` mode, a couple of plugins allow for [autopublishing articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/tree/master/shaarli_poster), and [sending pingbacks & webmentions](https://github.com/pelican-plugins/linkbacks/)
+
+## Zalando Engineering Blog
+
+- Site: https://engineering.zalando.com/
+- Source: not released
+- Theme: custom
+- Features:
+    * sitemap plugin
+    * custom metadata parsing for author titles
+    * parse date and slug from file name
