@@ -599,3 +599,8 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * sitemap plugin
     * custom metadata parsing for author titles
     * parse date and slug from file name
+## Rolf Leggewie Portfolio
+
+- Site: https://portfolio.leggewie.org
+- Source: https://gitlab.com/leggewie/leggewie.gitlab.io
+- Theme: custom
