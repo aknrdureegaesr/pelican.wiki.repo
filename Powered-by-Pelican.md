@@ -552,7 +552,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Custom Makefile 
 
 
-# The No Title® Tech Blog
+## The No Title® Tech Blog
 
  - Site: https://no-title.victordomingos.com
  - Source: https://github.com/victordomingos/The-No-Title-Tech-Blog
@@ -613,6 +613,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * sitemap plugin
     * custom metadata parsing for author titles
     * parse date and slug from file name
+
 ## Rolf Leggewie Portfolio
 
 - Site: https://portfolio.leggewie.org
