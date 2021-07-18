@@ -4,9 +4,9 @@ If you have published a Pelican-related tutorial on your own site, please create
 
 - Matt Makai published an excellent [introductory tutorial](https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html) at Full Stack Python.
 
-- Firebase Hosting: Continuous Build and Deployment to the forever-free tier Firebase using a [step by step tutorial](https://uberpython.com/articles/auto-deploy-pelican-websites-to-firebase-hosting).
+- **Firebase Hosting**: Continuous Build and Deployment to the *forever-free tier Firebase* using a [step by step tutorial](https://uberpython.com/articles/auto-deploy-pelican-websites-to-firebase-hosting).
 
-- GitHub Pages: Step by step guide to publish to [GitHub Pages directly using GitHub Actions](https://uberpython.com/articles/automate-deployment-of-pelican-website-to-github-pages). 
+- **GitHub Pages**: Step by step guide to publish to [GitHub Pages directly using GitHub Actions](https://uberpython.com/articles/automate-deployment-of-pelican-website-to-github-pages). 
 
 - You can also [use Travis-CI to publish to GitHub Pages](http://zonca.github.io/2013/09/automatically-build-pelican-and-publish-to-github-pages.html), allowing you to publish your site simply by pushing your commits to GitHub (without generating locally or using your own VPS).
 
