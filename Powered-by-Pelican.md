@@ -18,6 +18,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: https://UberPython.com
 - Source: https://github.com/UberPython/UberPython
 - Theme: Fully custom dual-tone theme inspired by [Fireship.io](https://fireship.io)
+- PWA: Progressive Web App
 - Features:
     * Automated Continuous Deployment (CD) to Firebase Hosting using GitHub Actions
     * Clean URL and custom hooks for validating sitemap
@@ -26,6 +27,7 @@ Add your site to the bottom of this list, highlighting any features that may ser
     * Responsive design with responsive navbar and content views
     * Table of contents for Articles using Python-Markdown official extension
     * GitHub integration to enable contributors to post guest articles
+    * PWA with ability to install natively as an app
     * 100 Pagespeed Insights Score, optimised for speed
 
 ## kylefuller.co.uk
