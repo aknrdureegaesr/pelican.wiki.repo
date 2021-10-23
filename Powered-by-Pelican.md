@@ -18,15 +18,17 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: https://cloudbytes.dev
 - Source: https://github.com/CloudBytesDotDev/CloudBytes.dev
 - Theme: Fully custom dual-tone theme with Dark & Solar modes, inspired by [Fireship.io](https://fireship.io)
+- Search: Powered by Algolia Search
 - PWA: Progressive Web App using Google WorkBox
 - Features:
     * Automated Continuous Deployment (CD) to Firebase Hosting using GitHub Actions
-    * Clean URL and custom hooks for validating sitemap
+    * PWA with ability to install natively as an app
+    * Table of contents for Articles using Python-Markdown official extension
+    * Search powered by Algolia Search
     * HTTPS/2 and SSL with Let's Encrypt as CA
     * Responsive design with responsive navbar and content views
-    * Table of contents for Articles using Python-Markdown official extension
+    * Clean URL and custom hooks for validating sitemap
     * GitHub integration to enable contributors to post guest articles
-    * PWA with ability to install natively as an app
     * 100 Pagespeed Insights Score, optimised for speed
 
 ## kylefuller.co.uk
