@@ -9,7 +9,7 @@ Additional themes can be found in the [Pelican Themes](https://github.com/getpel
 
 ## Getting Help
 
-If you have any problems, questions, or suggestions, please start by striking up a conversation on [#pelican on irc.freenode.org](irc://irc.freenode.net/pelican). Those who don't have an IRC client handy can jump in immediately via [IRC webchat](http://webchat.freenode.net/?channels=pelican&uio=d4). Because of differing time zones, you may not get an immediate response to your question, but please be patient and stay logged into IRC — someone will almost always respond. If for some reason you cannot stay in the IRC channel long enough to wait for an answer to your question, you can later review the [Pelican IRC logs](https://botbot.me/freenode/pelican/) at your leisure to see if someone has answered your question.
+If you have any problems, questions, or suggestions, please start by striking up a conversation on `#pelican` on `irc.libra.chat` (URL: `ircs://irc.libera.chat:6697`). Those who don't have an IRC client handy can jump in via [IRC webchat](https://web.libera.chat/). Because of differing time zones, you may not get an immediate response to your question, but please be patient and stay logged into IRC — someone will almost always respond.
 
 If you are unable to resolve your issue or if you have a feature request, please refer to the [issue tracker](https://github.com/getpelican/pelican/issues).
 
