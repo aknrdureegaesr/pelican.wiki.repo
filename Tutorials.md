@@ -13,3 +13,5 @@ If you have published a Pelican-related tutorial on your own site, please create
 - As another deployment option, you can [deploy your site to Heroku](http://blog.getpelican.com/using-pelican-with-heroku.html).
 
 - It's possible to [create "Linked List" posts](https://gist.github.com/jsonbecker/7539951) that behave differently from standard posts.
+
+- Spanish tutorial on how to create a multilingual site: [Cómo crear un sitio web multilingüe con Pelican](https://freakspot.net/c%C3%B3mo-crear-un-sitio-web-multiling%C3%BCe-con-pelican/).
