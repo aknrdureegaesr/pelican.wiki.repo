@@ -622,3 +622,13 @@ Add your site to the bottom of this list, highlighting any features that may ser
 - Site: https://portfolio.leggewie.org
 - Source: https://gitlab.com/leggewie/leggewie.gitlab.io
 - Theme: custom
+
+## csrlabs.io - High Availability with Home Hardware
+
+- Site: https://csrlabs.io
+- Theme: custom
+- Features:
+    * responsive site based on bootstrap
+    * sitemap plugin
+    * social cards and Twitter cards
+    * comments powered by Isso Comments
