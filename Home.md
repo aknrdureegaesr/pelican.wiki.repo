@@ -23,4 +23,4 @@ For examples of Pelican sites please see [Powered by Pelican](wiki/Powered-by-Pe
 
 ## Tips & Tricks
 
-If you have a tip that you feel doesn't belong in the documentation, feel free to add your own [Tips & Tricks](wiki/Tips-n-Tricks) to the wiki.
+If you have a tip that you feel doesn't belong in the documentation, feel free to add your own [Tips & Tricks](wiki/Tips-n-Tricks) to the wiki.。。
